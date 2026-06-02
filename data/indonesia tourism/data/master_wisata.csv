@@ -1,0 +1,526 @@
+kategori,nama_wisata,latitude,longitude,alamat,provinsi,kota_kabupaten
+mall,23 Paskal Shopping Center,-6.915388,107.5943024,"23 Paskal Shopping Center, 25-27, Jalan Kebon Jati, Ciroyom, Andir, Kota Bandung, Jawa Barat, Jawa, 40181, Indonesia",Jawa Barat,Kota Bandung
+mall,AEON Mall BSD,-6.3044091,106.6441572,"ÆON Mall, Jalan BSD Raya Utama, BSD City, Pagedangan, Kabupaten Tangerang, Banten, Jawa, 15345, Indonesia",Banten,Kabupaten Tangerang
+air terjun,Air Terjun Bantimurung,-5.0165199,119.6855203,"Air Terjun Bantimurung, Jalan Poros Bantimurung, Maros, Jenetaesa, Sulawesi Selatan, Sulawesi, Indonesia",Sulawesi Selatan,Sulawesi
+air terjun,Air Terjun Benang Kelambu,-8.5327696,116.3370113,"Air Terjun Benang Kelambu, Pemotoh, Lombok Tengah, Nusa Tenggara Barat, Nusa Tenggara, Indonesia",Nusa Tenggara Barat,Lombok Tengah
+air terjun,Air Terjun Benang Stokel,-8.5330355,116.3413791,"Air Terjun Benang Stokel, Pemotoh, Lombok Tengah, Nusa Tenggara Barat, Nusa Tenggara, Indonesia",Nusa Tenggara Barat,Lombok Tengah
+air terjun,Air Terjun Bidadari,-2.9283607,107.8390425,"Air Terjun Bidadari, Nyuruk, Belitung Timur, Kepulauan Bangka Belitung, Sumatera, Indonesia",Kepulauan Bangka Belitung,Belitung Timur
+air terjun,Air Terjun Coban Talun,-7.8020389,112.5170485,"Air Terjun Coban Talun, Kota Batu, Jawa Timur, Jawa, 65336, Indonesia",Jawa Timur,Kota Batu
+air terjun,Air Terjun Curug Dengdeng,-7.641818,108.324676,"AIR TERJUN CURUG DENGDENG, Jalan Cikaret Babakan, RW 08, Mekarsari, Tasikmalaya, Jawa Barat, Jawa, Indonesia",Jawa Barat,Tasikmalaya
+air terjun,Air Terjun Dolo,-7.8706373,111.8354398,"Air Terjun Dolo, Mojo, Kabupaten Kediri, Jawa Timur, Jawa, Indonesia",Jawa Timur,Kabupaten Kediri
+air terjun,Air Terjun Jumog,-7.6312129,111.1269212,"Air Terjun Jumog, Jalur Pendakian Gunung Lawu via Tambak, Berjo, Karanganyar, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Karanganyar
+air terjun,Air Terjun Kedung Kayang,-7.5003922,110.3933888,"Air terjun kedung kayang, Jalan Raya Boyolali-Magelang, Wonodadi, Wonolelo, Sawangan, Magelang, Jawa Tengah, Jawa, 56481, Indonesia",Jawa Tengah,Magelang
+air terjun,Air Terjun Mangku Sakti,-8.3180093,116.4686796,"Air Terjun Mangku Sakti, Sambik Eelen - Batu Santek, Sambikelen, Lombok Utara, Nusa Tenggara Barat, Nusa Tenggara, Indonesia",Nusa Tenggara Barat,Lombok Utara
+air terjun,Air Terjun Matayangu,-9.6732857,119.5046953,"Air Terjun Matayangu, Sumba Tengah, Nusa Tenggara Timur, Nusa Tenggara, Indonesia",Nusa Tenggara Timur,Sumba Tengah
+air terjun,Air Terjun Sendang Gile,-8.3055561,116.4082776,"Air terjun Sendang Gile, Dusun Pawang Karya, Senaru, Lombok Utara, Nusa Tenggara Barat, Nusa Tenggara, Indonesia",Nusa Tenggara Barat,Lombok Utara
+air terjun,Air Terjun Sri Gethuk,-7.9432134,110.4895782,"Air Terjun Sri Gethuk, 052, Jatimulyo, Dlingo, Bantul, Daerah Istimewa Yogyakarta, Jawa, 55783, Indonesia",Daerah Istimewa Yogyakarta,Bantul
+air terjun,Air Terjun Waimarang,-9.9687141,120.6028048,"Air Terjun Waimarang, Desa Tamburi, Kecamatan Rindi, Sumba Timur, Nusa Tenggara Timur, Nusa Tenggara, Indonesia",Nusa Tenggara Timur,Sumba Timur
+alun-alun,Alun-Alun Surabaya,-7.2500402,112.737988,"Alon-Alon Contong, Bubutan, Surabaya, Jawa Timur, Jawa, Indonesia",Jawa Timur,Surabaya
+alun-alun,Alun-Alun Demak,-6.894814,110.638526,"Alun - Alun Demak, Kauman, Demak, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Demak
+alun-alun,Alun-Alun Jember,-8.1689005,113.7021649,"Alun alun Jember, Sumber Lor, Jember, Jawa Timur, Jawa, Indonesia",Jawa Timur,Jember
+alun-alun,Alun-Alun Cirebon,-6.7219026,108.567909,"Alun Alun Keraton Kanoman, Lemahwungkuk, Kota Cirebon, Jawa Barat, Jawa, Indonesia",Jawa Barat,Kota Cirebon
+alun-alun,Alun-Alun Kidul Yogyakarta,-7.811844,110.3632217,"Alun Alun Kidul, Patehan, Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Jawa, 55133, Indonesia",Daerah Istimewa Yogyakarta,Kota Yogyakarta
+alun-alun,Alun-Alun Pandeglang,-6.3098034,106.1067856,"Alun Alun Pandeglang, Pandeglang, Banten, Jawa, Indonesia",Banten,Pandeglang
+alun-alun,Alun-Alun Purwokerto,-7.4243879,109.230123,"Alun Alun Purwokerto, Tanjung, Purwokerto, Banyumas, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Purwokerto
+alun-alun,Alun-Alun Semarang,-6.9717528,110.4237203,"Alun Alun Semarang, RW 01, Kauman, Semarang Tengah, Kota Semarang, Jawa Tengah, Jawa, 50000, Indonesia",Jawa Tengah,Kota Semarang
+alun-alun,Alun-Alun Kudus,-6.8077663,110.8417328,"Alun Alun Simpang 7 Kudus, Demaan, Kudus, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Kudus
+alun-alun,Alun-Alun Bandung,-6.9216776,107.607151,"Alun-Alun Bandung, Balonggede, Regol, Kota Bandung, Jawa Barat, Jawa, Indonesia",Jawa Barat,Kota Bandung
+alun-alun,Alun-Alun Blitar,-8.0981708,112.1651758,"Alun-Alun Blitar, Kepanjenkidul, Blitar, Jawa Timur, Jawa, Indonesia",Jawa Timur,Blitar
+alun-alun,Alun-Alun Bojonegoro,-7.1490935,111.8802509,"Alun-Alun Bojonegoro, Pakuwon, Bojonegoro, Jawa Timur, Jawa, Indonesia",Jawa Timur,Bojonegoro
+alun-alun,Alun-Alun Bondowoso,-7.9131978,113.8224604,"Alun-alun Bondowoso, Pegadaian, Bondowoso, Jawa Timur, Jawa, Indonesia",Jawa Timur,Bondowoso
+alun-alun,Alun-Alun Brebes,-6.8706354,109.0368815,"Alun-Alun Brebes, Pesanggrahan, Brebes, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Brebes
+alun-alun,Alun-Alun Cilacap,-7.7273698,109.0095032,"Alun-Alun Cilacap, RW 01 Kelurahan Sidanegara, Cilacap, Kelurahan Sidanegara Kecamatan Cilacap, Cilacap, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Cilacap
+alun-alun,Alun-Alun Gresik,-7.1571326,112.6560463,"alun-alun Gresik, Gresik, Jawa Timur, Jawa, Indonesia",Jawa Timur,Gresik
+alun-alun,Alun-Alun Jepara,-6.5897781,110.6673616,"Alun-alun Jepara, Jalan Diponegoro, Kauman, Jepara, Jawa Tengah, Jawa, 59417, Indonesia",Jawa Tengah,Jepara
+alun-alun,Alun-Alun Karanganyar,-7.6306506,109.5736782,"Alun-alun Karanganyar, Karanganyar, Kebumen, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Kebumen
+alun-alun,Alun-Alun Kediri,-7.8265629,112.0110595,"Alun-Alun Kediri, Kampung Dalem, Kota, Kota Kediri, Jawa Timur, Jawa, Indonesia",Jawa Timur,Kota Kediri
+alun-alun,Alun-Alun Kendal,-6.9213273,110.2040396,"Alun-Alun Kendal, Kendal, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Kendal
+alun-alun,Alun-Alun Klaten,-7.704963,110.6018083,"Alun-alun Klaten, Klaten, Klaten City, Klaten, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Klaten City
+alun-alun,Alun-Alun Magelang,-7.4771886,110.2182633,"Alun-Alun Kota Magelang, Mateseh, Kauman, Kota Magelang, Jawa Tengah, Jawa, 56122, Indonesia",Jawa Tengah,Kota Magelang
+alun-alun,Alun-Alun Pasuruan,-7.6418879,112.9066793,"Alun-Alun Kota Pasuruan, Bangilan, Kota Pasuruan, Jawa Timur, Jawa, Indonesia",Jawa Timur,Kota Pasuruan
+alun-alun,Alun-Alun Tegal,-6.8674529,109.1379097,"Alun-alun Kota Tegal, Kademangan, Tegal, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Tegal
+alun-alun,Alun-Alun Temanggung,-7.3162058,110.1755232,"Alun-Alun Kota Temanggung, Pandean, Temanggung, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Temanggung
+alun-alun,Alun-Alun Lamongan,-7.120213,112.4157189,"Alun-Alun Lamongan, Lamongan, Jawa Timur, Jawa, Indonesia",Jawa Timur,Lamongan
+alun-alun,Alun-Alun Lumajang,-8.1352201,113.2244432,"Alun-Alun Lumajang, Ditotrunan, Lumajang, Jawa Timur, Jawa, Indonesia",Jawa Timur,Lumajang
+alun-alun,Alun-Alun Madiun,-7.6291792,111.5168307,"Alun-alun Madiun, Pangongangan, Kota Madiun, Jawa Timur, Jawa, Indonesia",Jawa Timur,Kota Madiun
+alun-alun,Alun-Alun Malang,-7.9826135,112.6308234,"Alun-Alun Malang, Kiduldalem, Kota Malang, Jawa Timur, Jawa, Indonesia",Jawa Timur,Kota Malang
+alun-alun,Alun-Alun Mojokerto,-7.4632394,112.4319642,"Alun-Alun Mojokerto, Magersari, Kota Mojokerto, Jawa Timur, Jawa, Indonesia",Jawa Timur,Kota Mojokerto
+alun-alun,Alun-Alun Ngawi,-7.4036079,111.4445975,"Alun-Alun Ngawi, Cabean, Sidorejo, Ngawi, Jawa Timur, Jawa, Indonesia",Jawa Timur,Ngawi
+alun-alun,Alun-Alun Pacitan,-8.1946928,111.1031621,"Alun-Alun Pacitan, Pacitan, Jawa Timur, Jawa, Indonesia",Jawa Timur,Pacitan
+alun-alun,Alun-Alun Pemalang,-6.8902902,109.3806267,"Alun-Alun Pemalang, Pemalang, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Pemalang
+alun-alun,Alun-Alun Ponorogo,-7.8710476,111.462263,"Alun-Alun Ponorogo, Ponorogo, Jawa Timur, Jawa, Indonesia",Jawa Timur,Ponorogo
+alun-alun,Alun-Alun Probolinggo,-7.7441363,113.2158448,"Alun-Alun Probolinggo, Mayangan, Kota Probolinggo, Jawa Timur, Jawa, Indonesia",Jawa Timur,Kota Probolinggo
+alun-alun,Alun-Alun Purbalingga,-7.3895946,109.3632534,"Alun-alun Purbalingga, Purbalingga Food Center, Purbalingga, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Purbalingga
+alun-alun,Alun-Alun Rembang,-6.7055526,111.3486723,"Alun-Alun Rembang, Rembang, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Rembang
+alun-alun,Alun-Alun Sukoharjo,-7.68293,110.8405744,"Alun-Alun Satya Negara, Jetis, Sukoharjo, Jawa Tengah, Jawa, 57511, Indonesia",Jawa Tengah,Sukoharjo
+alun-alun,Alun-Alun Serang,-6.1173476,106.1530639,"Alun-Alun Serang, Kotabaru, Serang, Serang ᮞᮦᮛᮀ, Jawa, Indonesia",,Serang ᮞᮦᮛᮀ
+alun-alun,Alun-Alun Sidoarjo,-7.4462137,112.7178539,"Alun-Alun Sidoarjo, Pucanganom, Sidoarjo, Jawa Timur, Jawa, Indonesia",Jawa Timur,Sidoarjo
+alun-alun,Alun-Alun Situbondo,-7.7068185,114.0054037,"Alun-Alun Situbondo, Dawuhan, Situbondo, Jawa Timur, Jawa, Indonesia",Jawa Timur,Situbondo
+alun-alun,Alun-Alun Sragen,-7.4277082,111.0234646,"Alun-Alun Sragen ""Sasana Langen Putra"", Sragen, Jawa Tengah, Jawa, 57211, Indonesia",Jawa Tengah,Sragen
+alun-alun,Alun-Alun Trenggalek,-8.0491348,111.7092032,"Alun-Alun Trenggalek, Trenggalek, Jawa Timur, Jawa, Indonesia",Jawa Timur,Trenggalek
+alun-alun,Alun-Alun Utara Yogyakarta,-7.8044707,110.3643622,"Alun-Alun Utara Yogyakarta, Musikanan, Panembahan, Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Kota Yogyakarta
+alun-alun,Alun-Alun Solo,-7.5747341,110.8287812,"Alun-alun utara, Kauman, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Surakarta
+alun-alun,Alun-Alun Wonosobo,-7.3587052,109.9030423,"Alun-Alun Wonosobo, Wonosobo, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Wonosobo
+lembah,Lembah Pinus Cianjur,-6.7161611,107.009978,"Arra Lembah Pinus Hotel, Gang Perintis, Kampung Parabo, Ciloto, Cianjur, Jawa Barat, Jawa, 43253, Indonesia",Jawa Barat,Cianjur
+wisata kuliner,Bakso President Malang,-7.9624439,112.6368008,"Bakso President, Jalan Batanghari, Rampal Celaket, Kota Malang, Jawa Timur, Jawa, 65123, Indonesia",Jawa Timur,Kota Malang
+kebun binatang,Bali Bird Park,-8.6001941,115.2509922,"Bali Bird Park, Jalan Piakan I, Singapadu, Gianyar, Bali, Nusa Tenggara, 80238, Indonesia",Bali,Gianyar
+wisata edukasi,Bali Safari & Marine Park,-8.5808653,115.3440854,"Bali Safari & Marine Park, Profesor Ida Bagus Mantra Bypass, Keramas, Gianyar, Bali, Nusa Tenggara, 80716, Indonesia",Bali,Gianyar
+kebun binatang,Bali Zoo,-8.5912841,115.2645589,"Bali Zoo, Jalan Jaga Raga, Singapadu, Gianyar, Bali, Nusa Tenggara, 80582, Indonesia",Bali,Gianyar
+mall,Bandung Indah Plaza,-6.9083381,107.6112548,"Bandung Indah Plaza, Jalan Sumatra, Citarum, Bandung Wetan, Kota Bandung, Jawa Barat, Jawa, 40117, Indonesia",Jawa Barat,Kota Bandung
+wisata tematik,Batu Love Garden,-7.8638662,112.5428658,"Batu Love Garden, Pandanrejo, Kota Batu, Lowokwaru, Jawa Timur, Jawa, 65332, Indonesia",Jawa Timur,Kota Batu
+wahana keluarga,Batu Secret Zoo,-7.8881687,112.529164,"Batu Secret Zoo, Drun Store Pohon Inn, Oro-oro Ombo, Kota Batu, Klojen, Jawa Timur, Jawa, 65316, Indonesia",Jawa Timur,Kota Batu
+mall,Baywalk Mall Pluit,-6.1079134,106.7796191,"Baywalk Mall, Jalan Mandala Bahari, RW 10, Pluit, Penjaringan, Jakarta Utara, Daerah Khusus ibukota Jakarta, Jawa, 14450, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata kerajaan,Benteng Speelwijk Banten,-6.0310818,106.1507599,"Benteng Speelwijk, Banten, Kasemen, Serang ᮞᮦᮛᮀ, Jawa, Indonesia",,Serang ᮞᮦᮛᮀ
+wisata kerajaan,Benteng Baluwarti,-7.572122,110.8312357,"Benteng Vastenburg, Jalan Panglima Besar Sudirman, Kauman, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, Jawa, 57133, Indonesia",Jawa Tengah,Surakarta
+wisata edukasi,Museum Benteng Vredeburg,-7.8001537,110.3663364,"Benteng Vredeburg, Jalan Margo Mulyo, Kampung Ketandan, Prawirodirjan, Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Jawa, 55122, Indonesia",Daerah Istimewa Yogyakarta,Kota Yogyakarta
+wisata religi,Candi Borobudur,-7.6079583,110.2038245,"Borobudur, jalur, Borobudur, Magelang, Jawa Tengah, Jawa, 56553, Indonesia",Jawa Tengah,Magelang
+bukit,Bukit Asah Karangasem,-8.4947581,115.5960209,"Bukit Asah, Bugbug, Kecamatan Karangasem, Karangasem, Bali, Nusa Tenggara, 80311, Indonesia",Bali,Karangasem
+bukit,Bukit Bintang Yogyakarta,-7.8460828,110.4796997,"Bukit Bintang, Jalan Raya Wonosari - Yogyakarta, Ngasemayu, Patuk, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, 55862, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+bukit,Bukit Cinta Bali,-8.4262117,115.6086959,"Bukit Cinta, Jalan Serma Natih, Amlapura, Kecamatan Karangasem, Karangasem, Bali, Nusa Tenggara, 80811, Indonesia",Bali,Karangasem
+wisata alam,Bukit Cinta,-7.9145615,112.9390159,"Bukit Cinta, Pasuruan, Jawa Timur, Jawa, 67254, Indonesia",Jawa Timur,Pasuruan
+bukit,Bukit Doa Tomohon,1.3493247,124.8503698,"Bukit Doa, Bukit Doa Mahawu Pathway, Tomohon, Sulawesi Utara, Sulawesi, 95362, Indonesia",Sulawesi Utara,Tomohon
+bukit,Bukit Gajah Bobok,2.8993456,98.5111159,"Bukit Gajah Bobok, Karo, Sumatera Utara, Sumatera, 22173, Indonesia",Sumatera Utara,Karo
+wisata alam,Bukit Holbung,2.5338138,98.7010689,"Bukit Holbung, Hariara Pohan, Samosir, Sumatera Utara, Sumatera, Indonesia",Sumatera Utara,Samosir
+bukit,Bukit Holbung Samosir,2.5338138,98.7010689,"Bukit Holbung, Hariara Pohan, Samosir, Sumatera Utara, Sumatera, Indonesia",Sumatera Utara,Samosir
+wisata alam,Bukit Klangon,-7.5767676,110.454776,"Bukit Klangon, Setapak, Kalitengah Lor, Glagah Harjo, Cangkringan, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55583, Indonesia",Daerah Istimewa Yogyakarta,Glagah Harjo
+bukit,Bukit Klangon Sleman,-7.5767676,110.454776,"Bukit Klangon, Setapak, Kalitengah Lor, Glagah Harjo, Cangkringan, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55583, Indonesia",Daerah Istimewa Yogyakarta,Glagah Harjo
+wisata alam,Bukit Kuneer,-7.8133895,112.6339012,"Bukit Kuneer, Jalur Pendakian Gunung Arjuno via Lawang, Kabupaten Malang, Jawa Timur, Jawa, Indonesia",Jawa Timur,Kabupaten Malang
+bukit,Bukit Kuneer Malang,-7.8133895,112.6339012,"Bukit Kuneer, Jalur Pendakian Gunung Arjuno via Lawang, Kabupaten Malang, Jawa Timur, Jawa, Indonesia",Jawa Timur,Kabupaten Malang
+bukit,Bukit Lawang Sumatera Utara,3.5493172,98.1224445,"Bukit Lawang, Langkat, Sumatera Utara, Sumatera, 20852, Indonesia",Sumatera Utara,Langkat
+bukit,Bukit Lintang Sewu,-7.915055,110.4357959,"Bukit Lintang Sewu, Muntuk, Dlingo, Bantul, Daerah Istimewa Yogyakarta, Jawa, 55783, Indonesia",Daerah Istimewa Yogyakarta,Bantul
+bukit,Bukit Panguk Kediwung,-7.9597565,110.4405654,"Bukit Panguk Kediwung - sunrise, Kedungjati Bridge, Selopamioro, Imogiri, Bantul, Daerah Istimewa Yogyakarta, Jawa, 55783, Indonesia",Daerah Istimewa Yogyakarta,Bantul
+bukit,Bukit Punthuk Setumbu,-7.6074102,110.1778383,"Bukit Punthuk Setumbu, Jalan Salaman - Mungkid, Kembanglimus, Magelang, Jawa Tengah, Jawa, 56553, Indonesia",Jawa Tengah,Magelang
+wisata alam,Bukit Rhema,-7.6054797,110.1826028,"Bukit Rhema (Chicken Church), Jalan Salaman - Mungkid, Kembanglimus, Magelang, Jawa Tengah, Jawa, 56553, Indonesia",Jawa Tengah,Magelang
+bukit,Bukit Rhema Magelang,-7.6054797,110.1826028,"Bukit Rhema (Chicken Church), Jalan Salaman - Mungkid, Kembanglimus, Magelang, Jawa Tengah, Jawa, 56553, Indonesia",Jawa Tengah,Magelang
+bukit,Bukit Selong Lombok Timur,-8.365312,116.5400179,"Bukit Selong, Jalan Raya Ambarita, Sembalun Lawang, Lombok Timur, Nusa Tenggara Barat, Nusa Tenggara, 83656, Indonesia",Nusa Tenggara Barat,
+wisata alam,Bukit Jempol,-3.8120142,103.6703499,"Bukit Serelo, Tanjung Menang, Merapi Selatan, Lahat, Sumatera Selatan, Sumatera, Indonesia",Sumatera Selatan,Lahat
+wisata alam,Bukit Sikunir,-7.2387021,109.9250284,"Bukit Sikunir, Sembungan, Wonosobo, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Wonosobo
+bukit,Bukit Tangkiling Palangkaraya,-1.9881028,113.7504103,"Bukit Tangkiling, Palangka Raya, Kalimantan Tengah, Kalimantan, Indonesia",Kalimantan Tengah,Palangka Raya
+wisata alam,Bukit Tinggi,-3.3295279,101.8358215,"Bukit Tinggi, Bengkulu Utara, Bengkulu, Sumatera, Indonesia",Bengkulu,Bengkulu Utara
+kebun binatang,Taman Margasatwa dan Budaya Kinantan,-0.3006639,100.3698926,"Bukittinggi Kinantan Zoo, Kampuang Cino, Benteng Pasa Ateh, Bukittinggi, Sumatera Barat, Sumatera, Indonesia",Sumatera Barat,Bukittinggi
+wisata alam,Danau Limboto,0.5837874,122.9926691,"Bulalo Limboto, Hutadaa, Gorontalo, Sulawesi, Indonesia",Gorontalo,Gorontalo
+cafe view,Cafe D'Pakar Bandung,-6.8467341,107.6498632,"Cafe D'Pakar, Jalan Sekejolang, Ciburial, Kabupaten Bandung, Jawa Barat, Jawa, 40197, Indonesia",Jawa Barat,Kabupaten Bandung
+lembah,Lembah Harau Sumatera Barat,-0.1006493,100.6637256,"Cagar Alam Lembah Harau, Lima Puluh Kota, Sumatera Barat, Sumatera, Indonesia",Sumatera Barat,Lima Puluh Kota
+candi,Candi Abang,-7.8102254,110.4687098,"Candi Abang, Jalan Jogotirto, Jogotirto, Berbah, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55572, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+candi,Candi Badut,-7.9578365,112.5985999,"Candi Badut, Jalan Esberg VE 5, Kota Malang, Jawa Timur, Jawa, 65112, Indonesia",Jawa Timur,Kota Malang
+candi,Candi Bajang Ratu,-7.5677817,112.3986624,"Candi Bajang Ratu, Jalan Jayanegara 01, Trowulan, Mojokerto, Jawa Timur, Jawa, 61362, Indonesia",Jawa Timur,Trowulan
+candi,Candi Bima,-7.2143272,109.9105109,"Candi Bima, Jalan Rake Sanjaya, Siterus, Dieng, Wonosobo, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Wonosobo
+candi,Candi Brahu,-7.5428461,112.3743975,"Candi Brahu, Jalan Raden Wijaya, Kejagan, Trowulan, Mojokerto, Jawa Timur, Jawa, 61362, Indonesia",Jawa Timur,Kejagan
+candi,Candi Bubrah,-7.7465115,110.4929587,"Candi Bubrah, Jalan Candi Sewu, Tlogo, Klaten, Jawa Tengah, Jawa, 57454, Indonesia",Jawa Tengah,Klaten
+candi,Candi Cangkuang,-7.102927,107.9188749,"Candi Cangkuang, Jalan Soekarno Hatta, Cangkuang, Leles, Garut, Jawa Barat, Jawa, 44152, Indonesia",Jawa Barat,Cangkuang
+candi,Candi Cetho,-7.5957362,111.1581311,"Candi Cetho, Gunung Lawu Track via Candi Cetho, Ngawi, Karanganyar, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Ngawi
+candi,Candi Gunung Wukir,-7.6342335,110.2968591,"Candi Gunung Wukir, Tirto, Salam, Magelang, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Magelang
+candi,Candi Gunung Gangsir,-7.5866825,112.7333068,"Candi Gununggangsir, Jalan Wicaksono, Winong, Pasuruan, Jawa Timur, Jawa, 67154, Indonesia",Jawa Timur,Pasuruan
+candi,Candi Ijo,-7.7837641,110.5114895,"Candi Ijo, Alternatif Prambanan-Lemahbang, Sambirejo, Prambanan, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55572, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+candi,Candi Jago,-8.0057895,112.7640934,"Candi Jago, Jalan Raya Tumpang, Malangsuko, Tumpang, Kabupaten Malang, Jawa Timur, Jawa, 65156, Indonesia",Jawa Timur,Kabupaten Malang
+candi,Candi Jawi,-7.6624877,112.669879,"Candi Jawi, Jalan Raya Prigen, Prigen, Pasuruan, Jawa Timur, Jawa, 67161, Indonesia",Jawa Timur,Pasuruan
+candi,Candi Kadisoka,-7.7552364,110.4458063,"Candi Kadisoka, Jalan Soka, Maguwoharjo, Depok, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55571, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+candi,Candi Kalasan,-7.7668063,110.4723996,"Candi Kalasan, Kalasan, Tirtomartani, Kalasan, Sleman, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+candi,Candi Kedulan,-7.7425947,110.4697271,"Candi Kedulan, Jalan Raya Kalimati, Tirtomartani, Kalasan, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55571, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+candi,Candi Kidal,-8.0258552,112.7090269,"Candi Kidal, Jalan Raya Kidal, Jeding, Kidal, Kabupaten Malang, Jawa Timur, Jawa, 65156, Indonesia",Jawa Timur,Kabupaten Malang
+candi,Candi Kimpulan,-7.6883659,110.4153318,"Candi Kimpulan, Boulevard UII, Turi Rejo, Sardonoharjo, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55582, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+candi,Candi Lumbung,-7.7481201,110.4929439,"Candi Lumbung, Tlogo, Klaten, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Klaten
+wisata religi,Candi Mendut,-7.6048222,110.2301202,"Candi Mendut, Jalan Mayor Kusen, Ngrajek, Mendut, Magelang, Jawa Tengah, Jawa, 56511, Indonesia",Jawa Tengah,Magelang
+candi,Candi Muara Takus,0.3359614,100.6421489,"Candi Muara Takus, Jalan Simpang Muara Takus - Bandur Picak (Batas Kab. Rokan Hulu), Muara Takus, Kampar, Riau, Sumatera, Indonesia",Riau,Kampar
+wisata religi,Candi Pawon,-7.6061281,110.2195602,"Candi Pawon, Jalan Balaputera Dewa, Wanurejo, Borobudur, Magelang, Jawa Tengah, Jawa, 56553, Indonesia",Jawa Tengah,Magelang
+candi,Candi Penataran,-8.0161052,112.2092511,"Candi Penataran, Jalan Insinyur Soekarno, Kedawung, Blitar, Jawa Timur, Jawa, 66181, Indonesia",Jawa Timur,Blitar
+candi,Candi Belahan,-7.6075227,112.6513504,"Candi Petirtaan Belahan, Penanggungan via Kunjorowesi, Pasuruan, Jawa Timur, Jawa, 61375, Indonesia",Jawa Timur,Pasuruan
+wisata religi,Candi Plaosan,-7.74056,110.5045511,"Candi Plaosan Lor, Jalan Prambanan - Manisrenggo, Kebondalem Lor, Klaten, Jawa Tengah, Jawa, 57454, Indonesia",Jawa Tengah,Klaten
+wisata religi,Candi Prambanan,-7.7522269,110.4915331,"Candi Prambanan, Jalan Jogja - Solo, Bokoharjo, Prambanan, Sleman, Daerah Istimewa Yogyakarta, Jawa, 57454, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+candi,Candi Sambisari,-7.7623668,110.446949,"Candi Sambisari, Jalan Masjid II, Purwomartani, Kalasan, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55571, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+candi,Candi Sari,-7.7615065,110.4742174,"Candi Sari, Jalan Jogja - Solo, Kalasan, Tirtomartani, Kalasan, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55571, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+candi,Candi Sewu,-7.7443372,110.4928925,"Candi Sewu, Bugisan, Klaten, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Klaten
+candi,Candi Singosari,-7.8877283,112.6638852,"Candi Singosari, Jalan Kertanegara, Rogonoto, Candirenggo, Kabupaten Malang, Jawa Timur, Jawa, 65153, Indonesia",Jawa Timur,Kabupaten Malang
+candi,Candi Sojiwan,-7.7608885,110.4961263,"Candi Sojiwan, Jalan Bendo, Kebondalem Kidul, Klaten, Jawa Tengah, Jawa, 57454, Indonesia",Jawa Tengah,Klaten
+candi,Candi Sukuh,-7.6273153,111.1315373,"Candi Sukuh, Jalur Pendakian Gunung Lawu via Tambak, Berjo, Karanganyar, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Karanganyar
+candi,Candi Tegowangi,-7.7349327,112.161192,"Candi Tegowangi, Jalan Dahlia, Puhjarak, Plemahan, Kabupaten Kediri, Jawa Timur, Jawa, 64155, Indonesia",Jawa Timur,Kabupaten Kediri
+candi,Candi Tikus,-7.5716315,112.4035216,"Candi Tikus, Jalan Raya Gemekan-Gondang, Domas, Trowulan, Mojokerto, Jawa Timur, Jawa, 61362, Indonesia",Jawa Timur,Mojokerto
+candi,Candi Wringin Lawang,-7.5419685,112.3909512,"Candi Wringin Lawang, Jalan Raya Trowulan, Jatipasar, Trowulan, Mojokerto, Jawa Timur, Jawa, 61362, Indonesia",Jawa Timur,Mojokerto
+mall,Central Park Mall,-6.1773182,106.7914969,"Central Park Mall, Kav.28, Madison Park Apartment Access, RW 06, Tanjung Duren Selatan, Grogol Petamburan, Jakarta Barat, Daerah Khusus ibukota Jakarta, Jawa, 11470, Indonesia",,Daerah Khusus ibukota Jakarta
+mall,Centre Point Mall Medan,3.5921824,98.6810916,"Centre Point, Jalan Jawa, Gang Buntu, Sei Rengas, Sidorame Barat I, Kota Medan ᯔᯩᯑᯉ᯲, Sumatera Utara, Sumatera, 20231, Indonesia",Sumatera Utara,Kota Medan ᯔᯩᯑᯉ᯲
+mall,Cihampelas Walk,-6.8938203,107.6055658,"Cihampelas Walk (CiWalk), 160, Jalan Cihampelas, Cipaganti, Coblong, Kota Bandung, Jawa Barat, Jawa, 40131, Indonesia",Jawa Barat,Kota Bandung
+air terjun,Air Terjun Coban Rondo,-7.8847333,112.4769702,"Coban Rondo, Kabupaten Malang, Jawa Timur, Jawa, 65912, Indonesia",Jawa Timur,Kabupaten Malang
+wisata kuliner,Coto Nusantara Makassar,-5.1305904,119.4062286,"Coto Nusantara, Jalan Serui, Pattunuang, Wajo, Makassar, Sulawesi Selatan, Sulawesi, 90171, Indonesia",Sulawesi Selatan,Makassar
+wahana keluarga,Dago Dreampark,-6.8476037,107.6254233,"Dago Dreampark, Jalan Dago Giri, Mekarwangi, Bandung Barat, Jawa Barat, Jawa, 40139, Indonesia",Jawa Barat,Bandung Barat
+wisata tematik,Dago Dreampark Bandung,-6.8476037,107.6254233,"Dago Dreampark, Jalan Dago Giri, Mekarwangi, Bandung Barat, Jawa Barat, Jawa, 40139, Indonesia",Jawa Barat,Bandung Barat
+wisata alam,Danau Maninjau,-0.3274088,100.1948056,"Danau Maninjau, Sungai Batang, Agam, Sumatera Barat, Sumatera, 26471, Indonesia",Sumatera Barat,Agam
+wisata alam,Danau Matano,-2.4960014,121.3705886,"Danau Matano, Nuha, Sulawesi Selatan, Sulawesi, Indonesia",Sulawesi Selatan,Sulawesi
+wisata alam,Danau Poso,-1.9216194,120.614102,"Danau Poso, Tolambo, Poso, Sulawesi Tengah, Sulawesi, Indonesia",Sulawesi Tengah,Poso
+wisata alam,Danau Ranau,-4.8858445,103.90331,"Danau Ranau, Desa Ujung, Warkuk Ranau Selatan, Lampung Barat, Lampung, Sumatera, Indonesia",Lampung,Desa Ujung
+wisata alam,Danau Sentani,-2.6243128,140.5591859,"Danau Sentani, Yoboy, Jayapura, Papua, Western New Guinea, Indonesia",Papua,Jayapura
+wisata alam,Danau Singkarak,-0.6167842,100.5416618,"Danau Singkarak, Sumpur, Batipuh Selatan, Tanah Datar, Sumatera Barat, Sumatera, Indonesia",Sumatera Barat,Tanah Datar
+wisata alam,Danau Tempe,-4.1282039,119.9655936,"Danau Tempe, Baru Tancung, Sulawesi Selatan, Sulawesi, Indonesia",Sulawesi Selatan,Sulawesi
+wisata alam,Danau Toba,2.6108377,98.9023081,"Danau Toba, Sumatera Utara, Sumatera, Indonesia",Sumatera Utara,Sumatera
+wisata tematik,De Tjolomadoe Karanganyar,-7.5341451,110.7492451,"De Tjolomadoe, Jalan Adi Sucipto, Colomadu, Karanganyar, Jawa Tengah, Jawa, 57178, Indonesia",Jawa Tengah,Karanganyar
+wisata tematik,Devoyage Bogor,-6.6382298,106.7951412,"Devoyage Bogor, Jalan Pabuaran, Bogor Selatan, Bogor, Jawa Barat, Jawa, 16135, Indonesia",Jawa Barat,Bogor
+wisata tematik,Dream Museum Zone Bali,-8.6995022,115.1767288,"DMZ Dream Museum Zone, 33X, Jalan Nakula, Pemecutan Kelod, Legian, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",Bali,Badung
+mall,DP Mall Semarang,-6.9833201,110.4127632,"DP Mall Semarang, Jalan Simpang, RW 02, Sekayu, Semarang Tengah, Kota Semarang, Jawa Tengah, Jawa, 52041, Indonesia",Jawa Tengah,Kota Semarang
+wahana keluarga,Dunia Fantasi Ancol,-6.1242122,106.832156,"Dunia Fantasi, Marina, Kawasan Wisata Ancol, Ancol, Pademangan, Jakarta Utara, Daerah Khusus ibukota Jakarta, Jawa, 14430, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata edukasi,Dusun Semilir,-7.2375127,110.432898,"Dusun Semilir, 20, Ngancar, Bawen, Kabupaten Semarang, Jawa Tengah, Jawa, 13245, Indonesia",Jawa Tengah,Kabupaten Semarang
+wisata tematik,Dusun Semilir Semarang,-7.2375127,110.432898,"Dusun Semilir, 20, Ngancar, Bawen, Kabupaten Semarang, Jawa Tengah, Jawa, 13245, Indonesia",Jawa Tengah,Kabupaten Semarang
+wisata edukasi,Eco Green Park,-7.8876615,112.5267665,"Eco Green Park, Oro-oro Ombo, Kota Batu, Klojen, Jawa Timur, Jawa, 65316, Indonesia",Jawa Timur,Kota Batu
+wisata tematik,Eco Green Park Batu,-7.8876615,112.5267665,"Eco Green Park, Oro-oro Ombo, Kota Batu, Klojen, Jawa Timur, Jawa, 65316, Indonesia",Jawa Timur,Kota Batu
+mall,Emporium Pluit Mall,-6.1275786,106.790964,"Emporium Pluit Mall, Jalan Pluit Selatan Raya, RW 08, Penjaringan, Jakarta Utara, Daerah Khusus ibukota Jakarta, Jawa, 14430, Indonesia",,Daerah Khusus ibukota Jakarta
+wahana keluarga,Farmhouse Lembang,-6.8321699,107.6057512,"Farmhouse Lembang, 14, Gudangkahuripan, Bandung Barat, Jawa Barat, Jawa, Indonesia",Jawa Barat,Bandung Barat
+wisata kuliner,Gado-Gado Cemara Jakarta,-6.1794317,106.8139422,"Gado gado Cemara, Jalan Tanah Abang V, RW 04, Petojo Selatan, Gambir, Jakarta Pusat, Daerah Khusus ibukota Jakarta, Jawa, 10160, Indonesia",,Daerah Khusus ibukota Jakarta
+mall,Galaxy Mall Surabaya,-7.2764017,112.7804951,"Galaxy Mall, Jalan Dharma Husada Indah II, RW 09, Mulyorejo, Surabaya, Jawa Timur, Jawa, 60115, Indonesia",Jawa Timur,Surabaya
+mall,Gandaria City Mall,-6.2442757,106.7834863,"Gandaria City, Jalan Sultan Iskandar Muda, Gandaria City, Kebayoran Lama Utara, Kebayoran Lama, Jakarta Selatan, Daerah Khusus ibukota Jakarta, Jawa, 12240, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata religi,Gereja Katedral Bogor,-6.5968873,106.7931829,"Gereja Beatae Mariae Virginis (BMV) Katedral Bogor, 22, Jalan Kapten Muslihat, Bogor Tengah, Bogor, Jawa Barat, Jawa, 16122, Indonesia",Jawa Barat,Bogor
+wisata religi,Gereja HKBP Medan,3.5393577,98.6980359,"Gereja HKBP, Jalan Gereja, Harjosari, Medan Amplas, Kota Medan ᯔᯩᯑᯉ᯲, Sumatera Utara, Sumatera, 20147, Indonesia",Sumatera Utara,Kota Medan ᯔᯩᯑᯉ᯲
+wisata religi,Gereja Santa Maria de Fatima Glodok,-6.1437969,106.8121133,"Gereja Katolik Santa Maria De Fatima, Jalan Kemenangan III, RW 02, Glodok, Taman Sari, Jakarta Barat, Daerah Khusus ibukota Jakarta, Jawa, 11120, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata religi,Gereja Santa Perawan Maria Surabaya,-7.2420553,112.7369704,"Gereja Santa Perawan Maria, Jalan Kepanjen, RW 08, Krembangan Selatan, Krembangan, Surabaya, Jawa Timur, Jawa, 60161, Indonesia",Jawa Timur,Surabaya
+wisata religi,Gereja Santa Theresia Jakarta,-6.1889243,106.8254861,"Gereja Santa Theresia, Jalan Gereja Theresia, RW 04, Gondangdia, Menteng, Jakarta Pusat, Daerah Khusus ibukota Jakarta, Jawa, 10350, Indonesia",,Daerah Khusus ibukota Jakarta
+mall,Discovery Shopping Mall Bali,-8.7287042,115.1686537,"GM Discovery Shopping Mall Room, Jalan Kartika Plaza, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",Bali,Badung
+wahana keluarga,Go! Wet Waterpark Bekasi,-6.2977617,107.0505373,"Go! Wet Waterpark, Grand Lake Boulevard, Grand Wisata Bekasi, Grand Wisata, Bekasi, Kab Bekasi, Jawa Barat, Jawa, 17510, Indonesia",Jawa Barat,Bekasi
+mall,Grand Galaxy Park,-6.2707863,106.9722183,"Grand Galaxy Park, No.1, Jalan Pulo Minas, Kampung Utan, Galaxy, Jakasetia, Bekasi, Jawa Barat, Jawa, 17147, Indonesia",Jawa Barat,Bekasi
+mall,Grand Indonesia Mall,-6.1957452,106.8215929,"Grand Indonesia Shopping Town, Jalan Teluk Betung, RW 07, Kebon Melati, Tanah Abang, Jakarta Pusat, Daerah Khusus ibukota Jakarta, Jawa, 10230, Indonesia",,Daerah Khusus ibukota Jakarta
+wahana keluarga,Grand Puri Waterpark Yogyakarta,-7.8778724,110.3532303,"Grand Puri Waterpark, Jalan Melati Wetan, Timbulharjo, Sewon, Bantul, Daerah Istimewa Yogyakarta, Jawa, 55715, Indonesia",Daerah Istimewa Yogyakarta,Bantul
+wahana keluarga,Green Canyon Pangandaran,-7.7331415,108.4391618,"Green Canyon, Jalan Karangpaci, Kertayasa, Pangandaran, Jawa Barat, Jawa, 46394, Indonesia",Jawa Barat,Pangandaran
+wisata kuliner,Gudeg Yu Djum Yogyakarta,-7.8045373,110.3668938,"Gudeg Yu Djum, Jalan Wijilan, Musikanan, Panembahan, Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Jawa, 55000, Indonesia",Daerah Istimewa Yogyakarta,Kota Yogyakarta
+gunung,Gunung Agung,-8.3428923,115.5072076,"Gunung Agung, Kecamatan Bebandem, Karangasem, Bali, Nusa Tenggara, Indonesia",Bali,Karangasem
+gunung,Gunung Arjuno,-8.2219,112.7795,"Gunung Arjuno, Bumirejo, Kabupaten Malang, Jawa Timur, Jawa, 65181, Indonesia",Jawa Timur,Kabupaten Malang
+gunung,Gunung Batutara,-7.7906463,123.5865811,"Gunung Batu Tara, Lembata, Nusa Tenggara Timur, Nusa Tenggara, Indonesia",Nusa Tenggara Timur,Lembata
+gunung,Gunung Binaiya,-3.1733546,129.4552073,"Gunung Binaiya, Maluku Tengah, Maluku, Indonesia",Maluku,Maluku Tengah
+gunung,Gunung Bromo,-7.9420691,112.9529769,"Gunung Bromo, Road to Bromo, Cemoro Lawang, Probolinggo, Jawa Timur, Jawa, 67254, Indonesia",Jawa Timur,Probolinggo
+gunung,Gunung Burangrang,-6.7740399,107.5556983,"Gunung Burangrang, Purwakarta, Jawa Barat, Jawa, 40551, Indonesia",Jawa Barat,Purwakarta
+gunung,Gunung Dempo,-4.0155065,103.1279874,"Gunung Dempo, Tanjung Sakti Pumi, Lahat, Sumatera Selatan, Sumatera, Indonesia",Sumatera Selatan,Tanjung Sakti Pumi
+gunung,Gunung Egon,-8.6780954,122.4541256,"Gunung Egon, Sikka, Nusa Tenggara Timur, Nusa Tenggara, Indonesia",Nusa Tenggara Timur,Sikka
+gunung,Gunung Galunggung,-7.2561523,108.0760925,"Gunung Galunggung, Linggajati, Tasikmalaya, Jawa Barat, Jawa, Indonesia",Jawa Barat,Tasikmalaya
+gunung,Gunung Gamalama,0.8098795,127.3323425,"Gunung Gamalama, Ternate, Maluku Utara, Maluku, Indonesia",Maluku Utara,Ternate
+gunung,Gunung Gamping,-7.669167,111.091667,"Gunung Gamping, Karanglo, Karanganyar, Jawa Tengah, Jawa, 57785, Indonesia",Jawa Tengah,Karanganyar
+gunung,Gunung Gede,-6.7878411,106.9817166,"Gunung Gede, Cianjur, Jawa Barat, Jawa, Indonesia",Jawa Barat,Cianjur
+gunung,Gunung Ijen,-8.0579332,114.2430975,"Gunung Ijen, Banyuwangi, Jawa Timur, Jawa, Indonesia",Jawa Timur,Banyuwangi
+gunung,Gunung Kaba,4.133333,116.183333,"Gunung Kaba, Nunukan, Kalimantan Utara, Kalimantan, Indonesia",Kalimantan Utara,Nunukan
+wisata alam,Gunung Kelimutu,-8.7651702,121.8133427,"Gunung Kelimutu, Ende, Nusa Tenggara Timur, Nusa Tenggara, Indonesia",Nusa Tenggara Timur,Ende
+gunung,Gunung Kelud,-7.9389217,112.3052492,"Gunung Kelud, Blitar, Jawa Timur, Jawa, Indonesia",Jawa Timur,Blitar
+gunung,Gunung Kerinci,-1.6971814,101.2646538,"Gunung Kerinci, Kerinci, Jambi, Sumatera, Indonesia",Jambi,Kerinci
+gunung,Gunung Lawu,-7.627382,111.1943158,"Gunung Lawu, Karanganyar, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Karanganyar
+gunung,Gunung Leuser,3.7414545,97.1551334,"Gunung Leuser, Kuta Panjang, Gayo Lues, Aceh, Sumatera, Indonesia",Aceh,Gayo Lues
+gunung,Gunung Ile Ape,-8.2727646,123.5067385,"Gunung Lewotolo, Lembata, Nusa Tenggara Timur, Nusa Tenggara, Indonesia",Nusa Tenggara Timur,Lembata
+gunung,Gunung Lokon,1.3641984,124.7992274,"Gunung Lokon, Tomohon, Sulawesi Utara, Sulawesi, 95415, Indonesia",Sulawesi Utara,Tomohon
+gunung,Gunung Mahawu,1.3531645,124.8628914,"Gunung Mahawu, Tomohon, Sulawesi Utara, Sulawesi, 95449, Indonesia",Sulawesi Utara,Tomohon
+gunung,Gunung Mandala,-7.262743,109.6908084,"Gunung Mandala, mandala, Banjarnegara, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Banjarnegara
+gunung,Gunung Masurai,-2.4981564,101.9168192,"Gunung Masurai, Merangin, Jambi, Sumatera, Indonesia",Jambi,Merangin
+gunung,Gunung Merapi,-7.5412887,110.4462006,"Gunung Merapi, Hargobinangun, Pakem, Sleman, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Hargobinangun
+gunung,Gunung Pangrango,-6.7698136,106.9640294,"Gunung Pangrango, Kab Sukabumi, Jawa Barat, Jawa, Indonesia",Jawa Barat,Kab Sukabumi
+gunung,Gunung Papandayan,-6.3264787,108.3338984,"Gunung Papandayan, Indramayu, Jawa Barat, Jawa, 45211, Indonesia",Jawa Barat,Indramayu
+gunung,Gunung Patuha,-7.1610219,107.4000215,"Gunung Patuha, Kabupaten Bandung, Jawa Barat, Jawa, 40973, Indonesia",Jawa Barat,Kabupaten Bandung
+gunung,Gunung Puntang,-7.466667,107.766667,"Gunung Puntang, Garut, Jawa Barat, Jawa, Indonesia",Jawa Barat,Garut
+gunung,Gunung Raung,-8.119636,114.055025,"Gunung Raung, Bondowoso, Jawa Timur, Jawa, Indonesia",Jawa Timur,Bondowoso
+gunung,Gunung Salak,-6.7136069,106.7385402,"Gunung Salak, Tamansari, Kab Bogor, Jawa Barat, Jawa, Indonesia",Jawa Barat,Kab Bogor
+gunung,Gunung Semeru,-8.1078426,112.92248,"Gunung Semeru, Lumajang, Jawa Timur, Jawa, Indonesia",Jawa Timur,Lumajang
+gunung,Gunung Sibayak,3.2393517,98.5047584,"Gunung Sibayak, Karo, Sumatera Utara, Sumatera, 22156, Indonesia",Sumatera Utara,Karo
+gunung,Gunung Sinabung,3.1709534,98.3920481,"Gunung Sinabung, Karo, Sumatera Utara, Sumatera, Indonesia",Sumatera Utara,Karo
+gunung,Gunung Sindoro,-7.3011387,109.9966992,"Gunung Sindoro, Wonosobo, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Wonosobo
+gunung,Gunung Slamet,-7.2414693,109.2149699,"Gunung Slamet, Pemalang, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Pemalang
+gunung,Gunung Soputan,1.121651,124.741586,"Gunung Soputan, Minahasa, Sulawesi Utara, Sulawesi, Indonesia",Sulawesi Utara,Sulawesi
+gunung,Gunung Sumbing,-7.3818933,110.0758185,"Gunung Sumbing, Temanggung, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Temanggung
+gunung,Gunung Talang,-0.9781239,100.6820609,"Gunung Talang, Solok, Sumatera Barat, Sumatera, Indonesia",Sumatera Barat,Solok
+gunung,Gunung Tambora,-8.2466913,117.9584724,"Gunung Tambora, Bima, Nusa Tenggara Barat, Nusa Tenggara, Indonesia",Nusa Tenggara Barat,
+gunung,Gunung Tilu,-7.533333,107.933333,"Gunung Tilu, Garut, Jawa Barat, Jawa, Indonesia",Jawa Barat,Garut
+gunung,Gunung Welirang,-7.7326,112.5747,"Gunung Welirang, Pacet, Mojokerto, Jawa Timur, Jawa, Indonesia",Jawa Timur,Mojokerto
+gunung,Gunung Wilis,-7.820585,111.7571632,"Gunung Wilis, Ponorogo, Jawa Timur, Jawa, Indonesia",Jawa Timur,Ponorogo
+wisata tematik,HeHa Ocean View Gunung Kidul,-8.1044328,110.4604843,"HeHa Ocean View, Girikarto, Panggang, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+wisata tematik,HeHa Sky View Yogyakarta,-7.8491296,110.4782259,"HeHa Sky View, 2, Patuk, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, 55862, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+museum,Museum Danar Hadi,-7.5687599,110.8163702,"House of Danar Hadi, Jalan Brigadir Jenderal Slamet Riyadi, Timuran, Surakarta, Jawa Tengah, Jawa, 57132, Indonesia",Jawa Tengah,Surakarta
+bukit,Bukit Siguntang Palembang,-2.9972173,104.7255544,"Hutan Wisata Bukit Siguntang, Ilir Barat I, Palembang, Sumatera Selatan, Sumatera, Indonesia",Sumatera Selatan,Palembang
+mall,Mal Taman Anggrek,-6.1775213,106.7928343,"IKEA, Jalan Tanjung Duren Timur II, RW 07, Tanjung Duren Selatan, Grogol Petamburan, Jakarta Barat, Daerah Khusus ibukota Jakarta, Jawa, 11440, Indonesia",,Daerah Khusus ibukota Jakarta
+museum,Museum Bung Hatta Bukittinggi,-0.3062956,100.3688874,"Istana Bung Hatta, Jalan H. Agus Salim, Panorama, Kayu Kubu, Bukittinggi, Sumatera Barat, Sumatera, 26115, Indonesia",Sumatera Barat,Bukittinggi
+wisata kerajaan,Istana Maimun Medan,3.575232,98.6838169,"Istana Maimun, Jalan Brigjen Katamso, Suka Raja, Aur, Medan Maimun, Kota Medan ᯔᯩᯑᯉ᯲, Sumatera Utara, Sumatera, 20156, Indonesia",Sumatera Utara,Kota Medan ᯔᯩᯑᯉ᯲
+wisata kerajaan,Istana Siak Sri Indrapura Riau,0.7948074,102.0490273,"Istana Siak Sri Indrapura, Jalan Kartini, Siak Sri Indrapura, Siak, Riau, Sumatera, 28773, Indonesia",Riau,Siak
+wisata kerajaan,Istano Basa Pagaruyung,-0.4713638,100.6214909,"Istano Basa Pagaruyung, Jalan S.A. Bagagarsyah, Balai Janggo, Pagaruyuang, Tanjung Emas, Tanah Datar, Sumatera Barat, Sumatera, Indonesia",Sumatera Barat,Tanah Datar
+wisata kuliner,Jalan Braga Bandung,-6.9168925,107.6091723,"Jalan Braga, Braga, Sumur Bandung, Kota Bandung, Jawa Barat, Jawa, 40111, Indonesia",Jawa Barat,Kota Bandung
+bukit,Bukit Batu Sulawesi Selatan,-5.152682,119.484512,"Jalan Bukit Batu Antang, Pannara, Antang, Manggala, Makassar, Sulawesi Selatan, Sulawesi, 90234, Indonesia",Sulawesi Selatan,Makassar
+candi,Candi Dieng,-6.2361436,107.0185426,"Jalan Candi Dieng, Duren Jaya, Bekasi, Jawa Barat, Jawa, 17112, Indonesia",Jawa Barat,Bekasi
+wisata kerajaan,Candi Muaro Jambi,-1.4795711,103.6559477,"Jalan Candi Muaro Jambi, Muaro Jambi, Jambi, Sumatera, Indonesia",Jambi,Muaro Jambi
+wisata alam,Danau Kelimutu,-6.5928061,106.8102105,"Jalan Danau Kelimutu, Bogor Tengah, Bogor, Jawa Barat, Jawa, 16129, Indonesia",Jawa Barat,Bogor
+gunung,Gunung Krakatau,-6.1996194,106.9260011,"Jalan Gunung Krakatau V, RW 05, Jatinegara, Cakung, Jakarta Timur, Daerah Khusus ibukota Jakarta, Jawa, 13940, Indonesia",,Jakarta Timur
+gunung,Gunung Latimojong,-3.3786177,120.3047851,"Jalan Gunung Latimojong, Luwu, Balla, Sulawesi Selatan, Sulawesi, Indonesia",Sulawesi Selatan,Sulawesi
+wisata alam,Gunung Tangkuban Perahu,-8.6724148,115.1702225,"Jalan Gunung Tangkuban Perahu, Kerobokan Kelod, Kuta Utara, Badung, Bali, Nusa Tenggara, 08361, Indonesia",Bali,Badung
+wisata kuliner,Jalan Dago Bandung,-6.8863522,107.6136814,"Jalan Ir. H. Djuanda, Lebak Gede, Coblong, Kota Bandung, Jawa Barat, Jawa, 40132, Indonesia",Jawa Barat,Kota Bandung
+wisata kuliner,Jalan Ahmad Yani Makassar,-5.1328565,119.4078668,"Jalan Jenderal Ahmad Yani, Pattunuang, Wajo, Makassar, Sulawesi Selatan, Sulawesi, 90171, Indonesia",Sulawesi Selatan,Makassar
+wisata kuliner,Kampung Tugu Jakarta,-6.127958,106.9185365,"Jalan Kampung Tugu, RW 14, Tugu Utara, Koja, Jakarta Utara, Daerah Khusus ibukota Jakarta, Jawa, 14260, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata kerajaan,Benteng Buton Baubau,-5.4733218,122.6102454,"Jalan Lingkungan Benteng Wolio Buton, Kanakea Dalam, Baubau, Sulawesi Tenggara, Sulawesi, 97326, Indonesia",Sulawesi Tenggara,Baubau
+wisata kerajaan,Benteng Wolio,-5.4733218,122.6102454,"Jalan Lingkungan Benteng Wolio Buton, Kanakea Dalam, Baubau, Sulawesi Tenggara, Sulawesi, 97326, Indonesia",Sulawesi Tenggara,Baubau
+wisata kuliner,Jalan Malioboro Yogyakarta,-7.7932411,110.365806,"Jalan Malioboro, Suryatmajan, Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Jawa, 55213, Indonesia",Daerah Istimewa Yogyakarta,Kota Yogyakarta
+pantai,Pantai Balian,-8.499574,114.9650184,"Jalan Pantai Balian, Suraberata, Tabanan, Bali, Nusa Tenggara, Indonesia",Bali,Tabanan
+pantai,Pantai Nusa Dua,-8.8064165,115.2267684,"Jalan Pantai Mengiat, Nusa Dua, Benoa, Kuta Selatan, Badung, Bali, Nusa Tenggara, 80363, Indonesia",Bali,Badung
+pantai,Pantai Labuan Bajo,-8.5087436,119.877941,"Jalan Pantai Pede, Wae Mata, Labuan Bajo, Manggarai Barat, Nusa Tenggara Timur, Nusa Tenggara, 86753, Indonesia",Nusa Tenggara Timur,Labuan Bajo
+wisata kuliner,Sudirman Street Bandung,-6.9210257,107.6005987,"Jalan Sudirman, Karanganyar, Astanaanyar, Kota Bandung, Jawa Barat, Jawa, 40181, Indonesia",Jawa Barat,Kota Bandung
+wisata kuliner,Jalan Sumatera Surabaya,-7.2749513,112.7451892,"Jalan Sumatera, RW 04, Gubeng, Surabaya, Jawa Timur, Jawa, 60271, Indonesia",Jawa Timur,Surabaya
+wisata kuliner,Jalan Suroto Yogyakarta,-7.785899,110.3744277,"Jalan Suroto, Kotabaru, Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Jawa, 55224, Indonesia",Daerah Istimewa Yogyakarta,Kota Yogyakarta
+alun-alun,Alun-Alun Banyuwangi,-8.2073769,114.3759291,"Jalan Tawang Alun, Biskalan, Patemon Wetan, Banyuwangi, Temenggungan, Banyuwangi, Jawa Timur, Jawa, 68419, Indonesia",Jawa Timur,Banyuwangi
+gunung,Gunung Manglayang,-6.8810787,107.7357178,"Jalur Pendakian Gunung Manglayang via Palintang, Cilengkrang, Kabupaten Bandung, Jawa Barat, Jawa, 40616, Indonesia",Jawa Barat,Kabupaten Bandung
+mall,Jogja City Mall,-7.7534032,110.3604711,"Jogja City Mall, Jalan Kutu Patran, Sinduadi, Mlati, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55291, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+wahana keluarga,Kampung Gajah Wonderland,-6.8295078,107.5965635,"Kampung Gajah Wonderland, #KM3,8, Jalan Sersan Bajuri, Gudangkahuripan, Bandung Barat, Jawa Barat, Jawa, 40154, Indonesia",Jawa Barat,Bandung Barat
+wisata tematik,Kampung Warna Warni Jodipan,-7.9831221,112.6378633,"Kampung Warna Warni Jodipan, Jalan Insinyur Haji Juanda, RW 02 Kel. Jodipan Kec. Blimbing Kota Malang, Sukoharjo, Kota Malang, Jawa Timur, Jawa, 65118, Indonesia",Jawa Timur,Kota Malang
+wisata edukasi,Jatim Park 1,-8.2079276,114.3562777,"Kantor Maxim Indonesia - Banyuwangi, 1-2, Jalan Gajah Mada, RT 6, RW 3, Lingkungan Cungking, Mojoagung, Mojopanggung, Banyuwangi, Jawa Timur, Jawa, 68422, Indonesia",Jawa Timur,Mojopanggung
+wisata edukasi,Jatim Park 2,-8.2079276,114.3562777,"Kantor Maxim Indonesia - Banyuwangi, 1-2, Jalan Gajah Mada, RT 6, RW 3, Lingkungan Cungking, Mojoagung, Mojopanggung, Banyuwangi, Jawa Timur, Jawa, 68422, Indonesia",Jawa Timur,Mojopanggung
+wisata religi,Gereja Katedral Jakarta,-6.1692046,106.8332373,"Katedral Jakarta, Jalan Lapangan Banteng Utara, RW 08, Pasar Baru, Sawah Besar, Jakarta Pusat, Daerah Khusus ibukota Jakarta, Jawa, 10120, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata alam,Kawah Ijen,-8.0579203,114.2417131,"Kawah Ijen, Bondowoso, Jawa Timur, Jawa, Indonesia",Jawa Timur,Bondowoso
+air terjun,Air Terjun Tumpak Sewu,-8.2389311,112.9214262,"Kawasan Air Terjun Tumpak Sewu, Jagalan, Sidorenggo, Kabupaten Malang, Jawa Timur, Jawa, 67374, Indonesia",Jawa Timur,Kabupaten Malang
+candi,Candi Gedong Songo,-7.2063743,110.340176,"Kawasan Candi Gedong Songo, Darum, Sumowono, Kabupaten Semarang, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Kabupaten Semarang
+candi,Candi Ratu Boko,-7.770512,110.4894642,"Kawasan Candi Ratu Boko, Jalan Piyungan - Prambanan, Bokoharjo, Prambanan, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55572, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+wisata kuliner,Pasar Lama Tangerang,-6.1779396,106.6300758,"Kawasan Kuliner Pasar Lama, Jalan Kisamaun, Sukasari, Tangerang, Banten, Jawa, 15520, Indonesia",Banten,Tangerang
+kebun binatang,Kebun Binatang Bandung,-6.8911349,107.6069181,"Kebun Binatang Bandung, 6, Jalan Taman Sari, Taman Utara, Lebak Siliwangi, Coblong, Kota Bandung, Jawa Barat, Jawa, 40131, Indonesia",Jawa Barat,Kota Bandung
+kebun binatang,Kebun Binatang Gembira Loka,-7.8055166,110.3970178,"Kebun Binatang Gembira Loka, 2, Jalan Kebun Raya, Rejowinangun, Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Jawa, 55171, Indonesia",Daerah Istimewa Yogyakarta,Kota Yogyakarta
+kebun binatang,Kebun Binatang Medan,3.482373,98.6445839,"Kebun Binatang Medan, Namo Mbelin, Deli Serdang, Sumatera Utara, Sumatera, Indonesia",Sumatera Utara,Deli Serdang
+kebun binatang,Kebun Binatang Medan Zoo,3.482373,98.6445839,"Kebun Binatang Medan, Namo Mbelin, Deli Serdang, Sumatera Utara, Sumatera, Indonesia",Sumatera Utara,Deli Serdang
+kebun binatang,Medan Zoo,3.482373,98.6445839,"Kebun Binatang Medan, Namo Mbelin, Deli Serdang, Sumatera Utara, Sumatera, Indonesia",Sumatera Utara,Deli Serdang
+kebun binatang,Kebun Binatang Kaltim Samarinda,-0.4469975,117.2089424,"Kebun Binatang Mini, Samarinda Bontang Road, Tanah Merah, Samarinda Utara, Samarinda, Kalimantan Timur, Kalimantan, 75118, Indonesia",Kalimantan Timur,Samarinda
+wisata edukasi,Kebun Binatang Ragunan,-6.3114056,106.8216699,"Kebun Binatang Ragunan, Jalan Haji Matasan, RW 04, Kebagusan, Pasar Minggu, Jakarta Selatan, Daerah Khusus ibukota Jakarta, Jawa, 12620, Indonesia",,Daerah Khusus ibukota Jakarta
+kebun binatang,Kebun Binatang Surabaya,-7.2957723,112.7358105,"Kebun Binatang Surabaya, 1, Jalan Setail, RW 05, Darmo, Wonokromo, Surabaya, Jawa Timur, Jawa, 60421, Indonesia",Jawa Timur,Surabaya
+wisata edukasi,Kebun Raya Bogor,-6.5983032,106.7994187,"Kebun Raya Bogor, Bogor Tengah, Bogor, Jawa Barat, Jawa, Indonesia",Jawa Barat,Bogor
+wisata edukasi,Kebun Raya Cibodas,-6.7366316,107.0079063,"Kebun Raya Cibodas, Jalan Raya Kebun Cibodas, Cimacan, Cianjur, Jawa Barat, Jawa, 43253, Indonesia",Jawa Barat,Cianjur
+wisata edukasi,Kebun Raya Purwodadi,-7.7998333,112.741642,"Kebun Raya Purwodadi, Jalan Raya Surabaya - Malang, Kertosari, Pasuruan, Jawa Timur, Jawa, Indonesia",Jawa Timur,Pasuruan
+gunung,Gunung Inerie,-8.8781,120.9543,"Keli Inerie, Ngada, Nusa Tenggara Timur, Nusa Tenggara, Indonesia",Nusa Tenggara Timur,Ngada
+wisata kerajaan,Keraton Kanoman Cirebon,-6.7224492,108.5680568,"Keraton Kanoman, Lemahwungkuk, Kota Cirebon, Jawa Barat, Jawa, 45118, Indonesia",Jawa Barat,Kota Cirebon
+wisata kerajaan,Keraton Kasepuhan Cirebon,-6.7272941,108.5717151,"Keraton Kasepuhan, Jalan Mayor Sastraatmaja, Kesepuhan, Lemahwungkuk, Kota Cirebon, Jawa Barat, Jawa, 45133, Indonesia",Jawa Barat,Kota Cirebon
+wisata kerajaan,Keraton Yogyakarta,-7.8029256,110.3651894,"Keraton Yogyakarta, Jalan Alun Alun Utara, Kampung Ketandan, Prawirodirjan, Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Jawa, 55000, Indonesia",Daerah Istimewa Yogyakarta,Kota Yogyakarta
+wisata edukasi,KidZania Jakarta,-6.2243077,106.8094341,"KidZania, Sudirman Central Business District Northway, RW 03, Senayan, Kebayoran Baru, Jakarta Selatan, Daerah Khusus ibukota Jakarta, Jawa, 12190, Indonesia",,Daerah Khusus ibukota Jakarta
+candi,Candi Sumberawan,-7.8553522,112.6448149,"Kompleks Candi Sumberawan, Jalan Wisnu Wardhana, Pondokcandirenggoasri, Candirenggo, Kabupaten Malang, Jawa Timur, Jawa, 65153, Indonesia",Jawa Timur,Kabupaten Malang
+wisata kerajaan,Kerajaan Gowa,-5.2070607,119.4524687,"Kompleks Istana Kerajaan Gowa, Sungguminasa, Somba Opu, Gowa, Sulawesi Selatan, Sulawesi, Indonesia",Sulawesi Selatan,Sulawesi
+cafe view,Cafe Kopi Merapi Sleman,-7.602614,110.4459924,"Kopi Merapi, Jalan Raya Merapi Golf, Pangunrejo, Karanggeneng Umbulharjo, Umbulharjo, Cangkringan, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55583, Indonesia",Daerah Istimewa Yogyakarta,Umbulharjo
+cafe view,Cafe Kopi Nako Bogor,-6.603747,106.8110497,"Kopi Nako, Jalan Bina Marga 2, Bogor Timur, Bogor, Jawa Barat, Jawa, 16143, Indonesia",Jawa Barat,Bogor
+mall,Kota Kasablanka,-6.2231409,106.8434673,"Kota Kasablanka, Tebet, Jakarta Selatan, Daerah Khusus ibukota Jakarta, Jawa, Indonesia",,Daerah Khusus ibukota Jakarta
+lembah,Lembah Anai Sumatera Barat,-0.4834651,100.3381845,"Lembah Anai, X Koto, Tanah Datar, Sumatera Barat, Sumatera, Indonesia",Sumatera Barat,Tanah Datar
+lembah,Lembah Baliem Papua,-3.9874041,138.8773432,"Lembah Baliem Raya, Siapma, Musatfak, Jayawijaya, Papua Pegunungan, Western New Guinea, Indonesia",Papua Pegunungan,Jayawijaya
+lembah,Lembah Sari Pekanbaru,0.5719251,101.4738236,"Lembah Sari, Rumbai Timur, Pekanbaru, Pekanbaru Kota, Riau, Sumatera, 26286, Indonesia",Riau,Pekanbaru
+wisata edukasi,Floating Market Lembang,-6.8187298,107.618115,"Lembang Floating Market, 33E, Jalan Baruajak, DUSUN 1, Lembang, Bandung Barat, Jawa Barat, Jawa, 40391, Indonesia",Jawa Barat,Bandung Barat
+mall,Level 21 Mall Denpasar,-8.6698662,115.2143241,"Level 21 Mall Bali, 1, Jalan Teuku Umar, Dauh Puri Kelod, Denpasar Barat, Denpasar ᬤᬾᬦ᭄ᬧᬲᬃ, Bali, Nusa Tenggara, 80113, Indonesia",Bali,Denpasar ᬤᬾᬦ᭄ᬧᬲᬃ
+mall,Lippo Mall Kemang,-6.2612119,106.8126979,"Lippo Mall Kemang, Jalan Kemang Village, RW 05, Bangka, Mampang Prapatan, Jakarta Selatan, Daerah Khusus ibukota Jakarta, Jawa, 12730, Indonesia",,Daerah Khusus ibukota Jakarta
+mall,Living World Alam Sutera,-6.2448109,106.653052,"Living World Alam Sutera, Kav. 21, Jalan Alam Sutera Boulevard, Alam Sutera, Pakulonan, Serpong Utara, Tangerang Selatan, Banten, Jawa, 15325, Indonesia",Banten,Tangerang Selatan
+wisata lampion,Mahakam Lampion Garden Samarinda,-0.5063239,117.1196173,"Mahakam Lampion Garden, Jalan Slamet Riyadi, Karang Asam Ilir, Sungai Kunjang, Samarinda, Kalimantan Timur, Kalimantan, 75126, Indonesia",Kalimantan Timur,Samarinda
+wisata religi,Makam Sunan Ampel Surabaya,-7.2299754,112.7422732,"Makam Sunan Ampel, Jalan Ampel Masjid, Masjid Agung Ampel, Ampel, Semampir, Surabaya, Jawa Timur, Jawa, 60151, Indonesia",Jawa Timur,Surabaya
+wisata religi,Makam Sunan Bonang Tuban,-6.8945426,112.0633171,"Makam Sunan Bonang, Kutorejo Gang VIII, RT.03, RW.01, Kutorejo, Tuban, Jawa Timur, Jawa, 62313, Indonesia",Jawa Timur,Tuban
+wisata religi,Makam Sunan Giri Gresik,-7.1688945,112.6310331,"Makam Sunan Giri, Kebomas, Gresik, Jawa Timur, Jawa, Indonesia",Jawa Timur,Gresik
+wisata religi,Makam Sunan Gunung Jati Cirebon,-6.6711938,108.5400589,"Makam Sunan Gunung Jati, Kalisapu, Kabupaten Cirebon, Jawa Barat, Jawa, Indonesia",Jawa Barat,Kabupaten Cirebon
+mall,Mall Kelapa Gading,-6.1574342,106.9083434,"Mall Kelapa Gading, Jalan Boulevard Raya, RW 18, Kelapa Gading Timur, Kelapa Gading, Jakarta Utara, Daerah Khusus ibukota Jakarta, Jawa, 14240, Indonesia",,Daerah Khusus ibukota Jakarta
+mall,Manhattan Times Square Medan,3.5908426,98.6266558,"Manhattan Times Square, Jalan Gagak Hitam, Sunggal, Medan Sunggal, Kota Medan ᯔᯩᯑᯉ᯲, Sumatera Utara, Sumatera, 20123, Indonesia",Sumatera Utara,Kota Medan ᯔᯩᯑᯉ᯲
+wisata kuliner,Martabak San Francisco Bandung,-6.9590474,107.6894384,"Martabak San Francisco, Bulevar Magna, Magna Commercial, Cisaranten Kidul, Gedebage, Kota Bandung, Jawa Barat, Jawa, 40295, Indonesia",Jawa Barat,Kota Bandung
+wisata religi,Masjid 99 Kubah Makassar,-5.1437762,119.4040219,"Masjid 99 Kubah Asmaul-Husna, Jalan Penghibur, Maloku, Ujung Pandang, Makassar, Sulawesi Selatan, Sulawesi, 90171, Indonesia",Sulawesi Selatan,Makassar
+wisata religi,Masjid Agung Demak,-6.8947303,110.6374327,"Masjid Agung Demak, Jalan Sultan Fattah, Kauman, Demak, Jawa Tengah, Jawa, 59517, Indonesia",Jawa Tengah,Demak
+wisata religi,Masjid Agung Jawa Tengah Semarang,-6.9836458,110.4455923,"Masjid Agung Jawa Tengah, Jalan Jolotundo Gang V, RW 02, Sambirejo, Gayamsari, Kota Semarang, Jawa Tengah, Jawa, 50162, Indonesia",Jawa Tengah,Kota Semarang
+wisata religi,Masjid Al-Akbar Surabaya,-7.2580747,112.6782978,"Masjid Al-Akbar, Jalan Balongsari Krajan I, RW 07, Balongsari, Tandes, Surabaya, Jawa Timur, Jawa, 60184, Indonesia",Jawa Timur,Surabaya
+wisata religi,Masjid Istiqlal Jakarta,-6.1702779,106.8310435,"Masjid Istiqlal, Jalan KH Hasyim Asyari, RW 08, Pasar Baru, Sawah Besar, Jakarta Pusat, Daerah Khusus ibukota Jakarta, Jawa, 10110, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata religi,Masjid Cheng Hoo Surabaya,-7.2519525,112.7467958,"Masjid Muhammad Cheng Hoo Surabaya, Jalan Gading, RW 11, Ketabang, Genteng, Surabaya, Jawa Timur, Jawa, 60161, Indonesia",Jawa Timur,Surabaya
+wisata religi,Masjid Raya Baiturrahman Aceh,5.553631,95.3171926,"Masjid Raya Baiturrahman, Jalan Mohammad Jam, Kampung Baru, Baiturrahman, Banda Aceh, Aceh, Sumatera, 23241, Indonesia",Aceh,Banda Aceh
+wisata religi,Masjid Raya Bandung,-6.9218735,107.6062926,"Masjid Raya Bandung, 1, Jalan Dalem Kaum, Balonggede, Regol, Kota Bandung, Jawa Barat, Jawa, 40251, Indonesia",Jawa Barat,Kota Bandung
+mall,Mega Mall Pontianak,-0.0513705,109.3446916,"Mega Mall Parking Area, Parit Tokaya, Pontianak, Kalimantan Barat, Kalimantan, 71127, Indonesia",Kalimantan Barat,Pontianak
+wisata kuliner,Mie Kocok Bandung,-8.6652033,115.239048,"Mie Kocok Bandung, Jalan Merdeka, Denpasar Timur, Denpasar ᬤᬾᬦ᭄ᬧᬲᬃ, Bali, Nusa Tenggara, 80235, Indonesia",Bali,Denpasar ᬤᬾᬦ᭄ᬧᬲᬃ
+air terjun,Air Terjun Moramo,-4.221149,122.7452422,"Moramo - air terjun, Konawe Selatan, Sulawesi Tenggara, Sulawesi, Indonesia",Sulawesi Tenggara,Konawe Selatan
+museum,Museum Aceh,5.5488323,95.3209836,"Museum Aceh, Jalan Baperis, Peuniti, Baiturrahman, Banda Aceh, Aceh, Sumatera, 23116, Indonesia",Aceh,Banda Aceh
+wisata edukasi,Museum Affandi,-7.7827543,110.3963324,"Museum Affandi, 167, Jalan Laksda Adisucipto, Catur Tunggal, Depok, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55281, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+wahana keluarga,Museum Angkut,-7.878829,112.5201389,"Museum Angkut, Jalan Terusan Sultan Agung, Pesanggrahan, Kota Batu, Jawa Timur, Jawa, 65314, Indonesia",Jawa Timur,Kota Batu
+wisata edukasi,Museum Angkut Batu,-7.878829,112.5201389,"Museum Angkut, Jalan Terusan Sultan Agung, Pesanggrahan, Kota Batu, Jawa Timur, Jawa, 65314, Indonesia",Jawa Timur,Kota Batu
+wisata edukasi,Museum Bahari Jakarta,-6.1268288,106.8083185,"Museum Bahari, Jalan Pasar Ikan, RW 04, Penjaringan, Jakarta Utara, Daerah Khusus ibukota Jakarta, Jawa, 14470, Indonesia",,Daerah Khusus ibukota Jakarta
+museum,Museum Bali,-8.6575395,115.2186817,"Museum Bali, Gang I, Dangin Puri, Denpasar Timur, Denpasar ᬤᬾᬦ᭄ᬧᬲᬃ, Bali, Nusa Tenggara, 80232, Indonesia",Bali,Denpasar ᬤᬾᬦ᭄ᬧᬲᬃ
+wisata edukasi,Museum Bank Indonesia,-6.1371853,106.8129483,"Museum Bank Indonesia, Jalan Kali Besar Timur, RW 06, Pinangsia, Taman Sari, Jakarta Barat, Daerah Khusus ibukota Jakarta, Jawa, 11110, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata edukasi,Museum Batik Pekalongan,-6.878642,109.675579,"Museum Batik Pekalongan, 1, Jalan Jetayu, Poncol, Pekalongan, Jawa Tengah, Jawa, 51142, Indonesia",Jawa Tengah,Pekalongan
+museum,Museum Nusa Tenggara Timur,-10.1589523,123.6196131,"Museum Daerah Nusa Tenggara Timur, Jalan Frans-Seda, Perumahan Artha Graha, Kec. Kelapa Lima, TDM, Kupang, Nusa Tenggara Timur, Nusa Tenggara, 85228, Indonesia",Nusa Tenggara Timur,Kupang
+museum,Museum Dirgantara Mandala,-7.7897642,110.4161938,"Museum Dirgantara Mandala TNI AU, Jalan Lettu Tpt Sapardal, Banguntapan, Bantul, Daerah Istimewa Yogyakarta, Jawa, 55198, Indonesia",Daerah Istimewa Yogyakarta,Bantul
+wisata edukasi,Museum Dirgantara Mandala Yogyakarta,-7.7897642,110.4161938,"Museum Dirgantara Mandala TNI AU, Jalan Lettu Tpt Sapardal, Banguntapan, Bantul, Daerah Istimewa Yogyakarta, Jawa, 55198, Indonesia",Daerah Istimewa Yogyakarta,Bantul
+wisata edukasi,Museum Geologi Bandung,-6.9003424,107.620961,"Museum Geologi, 57, Jalan Diponegoro, Cihaurgeulis, Cibeunying Kaler, Kota Bandung, Jawa Barat, Jawa, 40122, Indonesia",Jawa Barat,Kota Bandung
+museum,Museum Lubang Buaya,-6.3008429,106.8914087,"Museum Indonesia, Jalan Taman Mini Indonesia Indah, Taman Mini Indonesia Indah (TMII), Cipayung, Jakarta Timur, Daerah Khusus ibukota Jakarta, Jawa, 13560, Indonesia",,Jakarta Timur
+wisata edukasi,Museum Kalimantan Barat,-0.0483232,109.3425506,"Museum Kalimantan Barat, Parit Tokaya, Pontianak, Kalimantan Barat, Kalimantan, Indonesia",Kalimantan Barat,Pontianak
+wisata kerajaan,Keraton Surakarta,-7.5784379,110.8283543,"Museum Keraton Surakarta, Jalan Mloyokusuman, Baluwarti, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, Jawa, 57118, Indonesia",Jawa Tengah,Surakarta
+museum,Museum Keraton Surakarta,-7.5784379,110.8283543,"Museum Keraton Surakarta, Jalan Mloyokusuman, Baluwarti, Surakarta, Kecamatan Pasar Kliwon, Jawa Tengah, Jawa, 57118, Indonesia",Jawa Tengah,Surakarta
+museum,Museum Keris Nusantara Solo,-7.5689811,110.8109454,"Museum Keris Nusantara, Jalan Bhayangkara, Sriwedari, Surakarta, Jawa Tengah, Jawa, 57143, Indonesia",Jawa Tengah,Surakarta
+museum,Museum Kota Makassar,-5.134618,119.4086104,"Museum Kota Makassar, Jalan Balai Kota, Baru, Ujung Pandang, Makassar, Sulawesi Selatan, Sulawesi, 90171, Indonesia",Sulawesi Selatan,Makassar
+museum,Museum Mandala Wangsit Siliwangi,-6.9173055,107.6111041,"Museum Mandala Wangsit Siliwangi, 38, Jalan Lembong, Braga, Sumur Bandung, Kota Bandung, Jawa Barat, Jawa, 40111, Indonesia",Jawa Barat,Kota Bandung
+museum,Museum Sangiran,-7.4559497,110.834048,"Museum Manusia Purba Sangiran, Jalan Barokah, Gondangrejo, Karanganyar, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Karanganyar
+museum,Museum Mulawarman Tenggarong,-0.413277,116.9900654,"Museum Mulawarman, 26, Jalan Pangeran Diponegoro, Panji, Kutai Kartanegara, Kalimantan Timur, Kalimantan, 75513, Indonesia",Kalimantan Timur,Kutai Kartanegara
+museum,Museum Musik Indonesia Malang,-7.9882707,112.6265568,"Museum Musik Indonesia, Jalan Nusa Kambangan No. 19, Jalan Nusa Kambangan, Kasin, Kota Malang, Jawa Timur, Jawa, 65117, Indonesia",Jawa Timur,Kota Malang
+museum,Museum Nasional Indonesia,-6.5987871,106.7938611,"Museum Nasional Sejarah Alam Indonesia, Jalan Kantor Batu, Bogor Tengah, Bogor, Jawa Barat, Jawa, 16122, Indonesia",Jawa Barat,Bogor
+museum,Museum Negeri Sumatera Utara,3.5680314,98.6962362,"Museum Negeri Sumatera Utara, 51, Jalan H.M. Joni, Teladan, Medan Kota, Kota Medan ᯔᯩᯑᯉ᯲, Sumatera Utara, Sumatera, 20217, Indonesia",Sumatera Utara,Kota Medan ᯔᯩᯑᯉ᯲
+wisata edukasi,Museum Pendidikan Indonesia,-8.0344195,112.64949,"Museum Pendidikan Indonesia Kota Malang, Jl. Raya Tlogowaru, Tlogowaru, Kec. Kedungkandang, Kota Malang, Jawa Timur, Jalan Tlogowaru, RW.04, KEL. TLOGOWARU, KOTA MALANG, Tlogowaru, Kota Malang, Jawa Timur, Jawa, 65133, Indonesia",Jawa Timur,Kota Malang
+museum,Museum Pendidikan Nasional,-6.8597725,107.5941677,"Museum Pendidikan Nasional UPI, 229, Jalan Muh Yamin, Isola, Sukajadi, Kota Bandung, Jawa Barat, Jawa, 40154, Indonesia",Jawa Barat,Kota Bandung
+museum,Museum Puri Lukisan Bali,-8.5050909,115.2603669,"Museum Puri Lukisan, Jalan Raya Ubud, Ubud, Kecamatan Ubud, Gianyar, Bali, Nusa Tenggara, 80571, Indonesia",Bali,Gianyar
+museum,Museum Dharma Wiratama,-7.782439,110.3754535,"Museum Pusat TNI AD ""Dharma Wiratama"", Jalan Cik di Tiro, Terban, Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Jawa, 55223, Indonesia",Daerah Istimewa Yogyakarta,Kota Yogyakarta
+museum,Museum Kartini Jepara,-6.5887998,110.6675049,"Museum RA.Kartini, Jalan Patimura, Ujungbatu, Jepara, Jawa Tengah, Jawa, 59411, Indonesia",Jawa Tengah,Jepara
+museum,Museum Radya Pustaka,-7.5686713,110.814407,"Museum Radya Pustaka, Jalan Brigadir Jenderal Slamet Riyadi, Timuran, Surakarta, Jawa Tengah, Jawa, 57132, Indonesia",Jawa Tengah,Surakarta
+wisata edukasi,Museum Fatahillah,-6.1351548,106.813289,"Museum Sejarah Jakarta, 1, Taman Fatahillah, RW 06, Pinangsia, Taman Sari, Jakarta Barat, Daerah Khusus ibukota Jakarta, Jawa, 11110, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata edukasi,Museum Sonobudoyo,-7.8023442,110.3644129,"Museum Sonobudoyo Unit I, 06, Jalan Pangurakan, Kampung Ketandan, Prawirodirjan, Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Jawa, 55122, Indonesia",Daerah Istimewa Yogyakarta,Kota Yogyakarta
+museum,Museum Sumpah Pemuda,-6.1838168,106.8430499,"Museum Sumpah Pemuda, Jalan Kramat Raya, RW 09, Kwitang, Senen, Jakarta Pusat, Daerah Khusus ibukota Jakarta, Jawa, 10450, Indonesia",,Daerah Khusus ibukota Jakarta
+museum,Museum Taman Prasasti,-6.1723713,106.8195429,"Museum Taman Prasasti, Jalan Tanah Abang I, RW 08, Petojo Selatan, Gambir, Jakarta Pusat, Daerah Khusus ibukota Jakarta, Jawa, 10320, Indonesia",,Daerah Khusus ibukota Jakarta
+museum,Museum Tani Jawa Indonesia,-7.9243964,110.3715199,"Museum Tani Jawa Indonesia, Jalan Imogiri Siluk Panggang, Kebonagung, Imogiri, Bantul, Daerah Istimewa Yogyakarta, Jawa, 55782, Indonesia",Daerah Istimewa Yogyakarta,Kebonagung
+museum,Museum Trinil Ngawi,-7.3743213,111.357806,"Museum Trinil Ngawi, Jalan Raya Solo - Ngawi, Sukosari, Gemarang, Ngawi, Jawa Timur, Jawa, Indonesia",Jawa Timur,Ngawi
+wisata edukasi,Museum Tsunami Aceh,5.5478201,95.3151652,"Museum Tsunami Aceh, Jalan Sultan Iskandar Muda, Suka Ramai, Baiturrahman, Banda Aceh, Aceh, Sumatera, 23116, Indonesia",Aceh,Banda Aceh
+museum,Museum Ullen Sentalu,-7.5976484,110.4233962,"Museum Ullen Sentalu, Taman Kaliurang, Kaliurang, Hargobinangun, Pakem, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55583, Indonesia",Daerah Istimewa Yogyakarta,Hargobinangun
+wisata edukasi,Museum Zoologi Bogor,-6.6035575,106.7969138,"Museum Zoologi, 9, Jalan Otto Iskandardinata, Bogor Tengah, Bogor, Jawa Barat, Jawa, 16122, Indonesia",Jawa Barat,Bogor
+wisata kuliner,Nasi Kapau Bukittinggi,-6.1756359,106.7817377,"Nasi Kapau Bukittinggi, Jalan Salak Raya, RW 05, Tanjung Duren Utara, Grogol Petamburan, Jakarta Barat, Daerah Khusus ibukota Jakarta, Jawa, 11430, Indonesia",,Daerah Khusus ibukota Jakarta
+museum,Museum Neka,-8.4918367,115.2536188,"Neka Art Museum, Raya Sanggingan, Ubud, Kecamatan Ubud, Gianyar, Bali, Nusa Tenggara, 80571, Indonesia",Bali,Gianyar
+wisata edukasi,Observatorium Bosscha,-6.8244765,107.61602,"Observatorium Bosscha, #KM15, Jalan Peneropong Bintang, Lembang, Bandung Barat, Jawa Barat, Jawa, 40391, Indonesia",Jawa Barat,Bandung Barat
+mall,Pacific Place Jakarta,-6.2249656,106.809825,"Pacific Place Mall, Kav 52-53, Sudirman Central Business District Southway, RW 03, Senayan, Kebayoran Baru, Jakarta Selatan, Daerah Khusus ibukota Jakarta, Jawa, 12190, Indonesia",,Daerah Khusus ibukota Jakarta
+mall,Pakuwon Mall Surabaya,-7.28906,112.6756078,"Pakuwon Mall, Jalan Mayor Jenderal Jonosewojo, Pakuwon Indah, Babatan, Wiyung, Surabaya, Jawa Timur, Jawa, 60123, Indonesia",Jawa Timur,Surabaya
+mall,Palembang Icon Mall,-2.9785785,104.7457881,"Palembang Icon, Jalan Angkatan 45, Ilir Barat I, Palembang, Sumatera Selatan, Sumatera, 30137, Indonesia",Sumatera Selatan,Palembang
+mall,Palembang Square,-2.9761723,104.7418731,"Palembang Square, Jalan Angkatan 45, Ilir Barat I, Palembang, Sumatera Selatan, Sumatera, 30137, Indonesia",Sumatera Selatan,Palembang
+pantai,Pantai Balekambang,-8.4030438,112.5364708,"Pantai Balekambang Malang, Jalan Balaikambang, Balaikambang, Kabupaten Malang, Jawa Timur, Jawa, 65179, Indonesia",Jawa Timur,Kabupaten Malang
+pantai,Pantai Bira,-5.6076102,120.4434226,"Pantai Bara (Bara beach), Pelabuhan Feri Bira, Bulukumba, Bira, Sulawesi Selatan, Sulawesi, 92551, Indonesia",Sulawesi Selatan,Sulawesi
+pantai,Pantai Baron,-8.1289468,110.5491797,"Pantai Baron, Kemadang, Tanjungsari, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+pantai,Pantai Bentar,-7.7800155,113.2762115,"Pantai Bentar, Probolinggo, Jawa Timur, Jawa, Indonesia",Jawa Timur,Probolinggo
+pantai,Pantai Boom,-8.2067756,114.3837475,"Pantai Boom, Krajan, Banyuwangi, Kampungmandar, Banyuwangi, Jawa Timur, Jawa, 68419, Indonesia",Jawa Timur,Banyuwangi
+pantai,Pantai Canggu,-8.6600724,115.1308276,"Pantai Canggu, Canggu, Kuta Utara, Badung, Bali, Nusa Tenggara, Indonesia",Bali,Badung
+pantai,Pantai Dreamland,-8.7991734,115.1175866,"Pantai Dreamland, Pecatu, Kuta Selatan, Badung, Bali, Nusa Tenggara, 80163, Indonesia",Bali,Badung
+pantai,Pantai Drini,-8.1380974,110.5783985,"Pantai Drini, Banjarejo, Tanjungsari, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+pantai,Pantai Glagah,-7.9046994,110.0774413,"Pantai Glagah, Glagah, Temon, Kulonprogo, Daerah Istimewa Yogyakarta, Jawa, 55654, Indonesia",Daerah Istimewa Yogyakarta,Kulonprogo
+pantai,Pantai Indrayanti,-8.1498929,110.6113168,"Pantai Indrayanti, Tepus, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+pantai,Pantai Jogan,-8.1802349,110.67649,"Pantai Jogan, Purwodadi, Tepus, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, 55882, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+pantai,Pantai Watu Karung,-8.2402291,110.9828998,"Pantai Kasap, Watu Karung, Pacitan, Jawa Timur, Jawa, Indonesia",Jawa Timur,Pacitan
+pantai,Pantai Klayar,-8.2246926,110.9484172,"Pantai Klayar, Pacitan, Jawa Timur, Jawa, Indonesia",Jawa Timur,Pacitan
+pantai,Pantai Krakal,-8.1317391,110.5449125,"Pantai Krakal Barat, Kanigoro, Saptosari, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+pantai,Pantai Kuta,-8.7182136,115.1687568,"Pantai Kuta, Kuta, Badung, Bali, Nusa Tenggara, Indonesia",Bali,Badung
+pantai,Pantai Sawarna,-6.9872744,106.3232487,"Pantai Legon Pari, Sawarna, Lebak, Jawa, Indonesia",,Lebak
+pantai,Pantai Nglambor,-8.1823453,110.6792506,"Pantai Nglambor, Purwodadi, Tepus, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, 55882, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+pantai,Pantai Parangtritis,-8.0272827,110.3370078,"Pantai Parangtritis, Parangtritis, Kretek, Bantul, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Bantul
+pantai,Pantai Pasir Putih,-3.831786,102.2827747,"Pantai Pasir Putih, Padang Harapan, Bengkulu, Ratu Samban, Bengkulu, Sumatera, 38225, Indonesia",Bengkulu,Bengkulu
+pantai,Pantai Pink,-8.8595798,116.5757111,"Pantai Pink, Nusa Tenggara Barat, Nusa Tenggara, Indonesia",Nusa Tenggara Barat,
+pantai,Pantai Pok Tunggal,-8.1554823,110.6218792,"Pantai Pok Tunggal, Tepus, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+pantai,Pantai Sadranan,-8.1457925,110.6044298,"Pantai Sadranan, Sidoharjo, Tepus, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+pantai,Pantai Sanur,-8.6737949,115.2626771,"pantai sanur, Jalan Hang Tuah, Sanur Kaja, Denpasar Selatan, Denpasar ᬤᬾᬦ᭄ᬧᬲᬃ, Bali, Nusa Tenggara, 80030, Indonesia",Bali,Denpasar ᬤᬾᬦ᭄ᬧᬲᬃ
+pantai,Pantai Senggigi,-8.4982125,116.0453563,"Pantai Senggigi, Senggigi, Lombok Barat, Nusa Tenggara Barat, Nusa Tenggara, Indonesia",Nusa Tenggara Barat,Lombok Barat
+pantai,Pantai Soge,-8.2475592,111.2634287,"Pantai Soge, Pacitan, Jawa Timur, Jawa, 63572, Indonesia",Jawa Timur,Pacitan
+pantai,Pantai Sundak,-8.1471841,110.6080799,"Pantai Sundak, Sidoharjo, Tepus, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+pantai,Pantai Tambakrejo,-8.3159075,112.1444142,"Pantai Tambakrejo, Jalan Pantai, Tambakrejo, Blitar, Jawa Timur, Jawa, Indonesia",Jawa Timur,Blitar
+pantai,Pantai Teleng Ria,-8.2211573,111.0788703,"Pantai Teleng Ria, Pacitan, Jawa Timur, Jawa, Indonesia",Jawa Timur,Pacitan
+pantai,Pantai Timang,-8.1756475,110.6632846,"Pantai Timang, Purwodadi, Tepus, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+pantai,Pantai Wediombo,-8.1873165,110.7103524,"Pantai Wediombo, Jepitu, Girisubo, Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Kabupaten Gunungkidul ꦏꦧꦸꦥꦠꦺꦤ꧀ꦒꦸꦤꦸꦁꦏꦶꦢꦸꦭ꧀
+mall,Paris Van Java Mall,-6.8890732,107.5960928,"Paris Van Java, Jalan Karang Tinggal, Cipedes, Sukasari, Kota Bandung, Jawa Barat, Jawa, 40161, Indonesia",Jawa Barat,Kota Bandung
+alun-alun,Alun-Alun Kota Batu,-7.8711747,112.5251687,"Parkir Alun-Alun Kota Batu, Jalan RA. Kartini, Pesanggrahan, Kota Batu, Klojen, Jawa Timur, Jawa, 65341, Indonesia",Jawa Timur,Kota Batu
+wisata kuliner,Pasar Atom Surabaya,-7.2414035,112.7441077,"Pasar Atom, Jalan Waspada, RW 04, Bongkaran, Pabean Cantian, Surabaya, Jawa Timur, Jawa, 60145, Indonesia",Jawa Timur,Surabaya
+wisata kuliner,Pasar Cihapit Bandung,-6.9085551,107.6224564,"Pasar Cihapit, Jalan Sabang, Cihapit, Bandung Wetan, Kota Bandung, Jawa Barat, Jawa, 40113, Indonesia",Jawa Barat,Kota Bandung
+wisata kuliner,Pasar Gede Solo,-7.5693721,110.8314627,"Pasar Gede Solo, Jalan R.E. Martadinata, Sudiroprajan, Surakarta, Jawa Tengah, Jawa, 57113, Indonesia",Jawa Tengah,Surakarta
+wisata kuliner,Pasar Kuto Palembang,-2.9812649,104.7714847,"Pasar Kuto, Lorong Beringin Jaya, RW 01 Kel.Kuto Batu, Ilir Timur II, Palembang, Sumatera Selatan, Sumatera, 30111, Indonesia",Sumatera Selatan,Palembang
+wisata kuliner,Pasar Pagi Medan,3.6856948,98.6914596,"Pasar Pagi Yuka, Jalan Pancing I, Medan Labuhan, Kota Medan ᯔᯩᯑᯉ᯲, Sumatera Utara, Sumatera, 20251, Indonesia",Sumatera Utara,Kota Medan ᯔᯩᯑᯉ᯲
+wisata kuliner,Pasar Santa Jakarta,-6.2391928,106.8077643,"Pasar Santa, Jalan Robert Wolter Monginsidi, RW 06, Petogogan, Kebayoran Baru, Jakarta Selatan, Daerah Khusus ibukota Jakarta, Jawa, 12180, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata kuliner,Pasar Cibadak Bandung,-6.9232848,107.5955639,"Pasar ulekan pagarsih, Jalan Natawijaya, Cibadak, Astanaanyar, Kota Bandung, Jawa Barat, Jawa, 40232, Indonesia",Jawa Barat,Kota Bandung
+bukit,Bukit Sibea-bea Samosir,2.5504584,98.6719465,"Patung Yesus, Bukit Sibea-bea, Air Terjun Efrata Road, Lumban Guru, Turpuk Limbong, Samosir, Sumatera Utara, Sumatera, Indonesia",Sumatera Utara,Samosir
+wisata kuliner,Pecenongan Jakarta,-6.1677221,106.8282105,"Pecenongan, Jalan Insinyur Haji Juanda, RW 04, Kebon Kelapa, Gambir, Jakarta Pusat, Daerah Khusus ibukota Jakarta, Jawa, 10120, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata kuliner,Pempek Candy Palembang,-2.986352,104.7440276,"Pempek Candy, Kapten A. Rivai, Bukit Kecil, Palembang, Sumatera Selatan, Sumatera, 30135, Indonesia",Sumatera Selatan,Palembang
+bukit,Bukit 2000 Kuningan,-6.7968035,108.4741153,"perumahan bukit pejaten residence, desa nanggela, Jalan Pangeran Kejaksan, Babakan, Kuningan, Jawa Barat, Jawa, 45558, Indonesia",Jawa Barat,Kuningan
+mall,PIK Avenue,-6.1091097,106.7404406,"PIK Avenue, Jalan Marina Indah, RW 06, Kamal Muara, Penjaringan, Jakarta Utara, Daerah Khusus ibukota Jakarta, Jawa, 14470, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata edukasi,Planetarium Jakarta,-6.1901222,106.8391385,"Planetarium Jakarta, 73, Jalan Cikini Raya, RW 02, Cikini, Menteng, Jakarta Pusat, Daerah Khusus ibukota Jakarta, Jawa, 10330, Indonesia",,Daerah Khusus ibukota Jakarta
+mall,Plaza Ambarrukmo Yogyakarta,-7.7817669,110.4013176,"Plaza Ambarrukmo, Jalan Laksda Adisucipto, Catur Tunggal, Depok, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55281, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+wisata kerajaan,Benteng Kuto Besak Palembang,-2.992422,104.7597918,"Plaza Benteng Kuto Besak, RW 06 Kel. 19 Ilir Kec. Bukit Kecil, Bukit Kecil, Palembang, Sumatera Selatan, Sumatera, 30251, Indonesia",Sumatera Selatan,Palembang
+mall,Plaza Indonesia,-6.1934835,106.8228616,"Plaza Indonesia, Jalan Mohammad Husni Thamrin, RW 05, Gondangdia, Menteng, Jakarta Pusat, Daerah Khusus ibukota Jakarta, Jawa, 10350, Indonesia",,Daerah Khusus ibukota Jakarta
+mall,Pondok Indah Mall,-6.2653276,106.7846567,"Pondok Indah Mall 1, Jalan Metro Pondok Indah, RW 03, Pondok Pinang, Kebayoran Lama, Jakarta Selatan, Daerah Khusus ibukota Jakarta, Jawa, 12310, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata religi,Pura Agung Blambangan,-8.4316781,114.3200224,"Pura Agung Blambangan, Jalan Ngurah Rai, Tembokrejo, Banyuwangi, Jawa Timur, Jawa, 68471, Indonesia",Jawa Timur,Banyuwangi
+wisata religi,Pura Besakih Bali,-8.3753612,115.4507063,"Pura Besakih, Trail Besakih - Gunung Agung, Kecamatan Rendang, Besakih, Kecamatan Rendang, Karangasem, Bali, Nusa Tenggara, Indonesia",Bali,Karangasem
+wisata religi,Pura Goa Lawah Bali,-8.5515251,115.4689715,"Pura Goa Lawah, Jalan Wibisana, Pesinggahan, Klungkung, Bali, Nusa Tenggara, 80711, Indonesia",Bali,Klungkung
+wisata religi,Pura Lempuyang Bali,-8.3937352,115.6399616,"Pura Lempuyang, Temple Path Steps, Kecamatan Abang, Sega, Kecamatan Abang, Karangasem, Bali, Nusa Tenggara, Indonesia",Bali,Karangasem
+wisata religi,Pura Luhur Uluwatu Bali,-8.8293694,115.0843428,"Pura Luhur Uluwatu, Jalan Labuan Sait- Pecatu, Uluwatu, Pecatu, Kuta Selatan, Badung, Bali, Nusa Tenggara, 80361, Indonesia",Bali,Badung
+wisata religi,Pura Taman Ayun Bali,-8.5418493,115.1724926,"Pura Taman Ayun, 10, Gang Nuri VI, Gulingan, Badung, Bali, Nusa Tenggara, 80351, Indonesia",Bali,Badung
+wisata religi,Pura Tirta Empul Bali,-8.4143644,115.3162086,"Pura Tirta Empul, Jalan Mawar, Manukaya, Gianyar, Bali, Nusa Tenggara, 80661, Indonesia",Bali,Gianyar
+wisata religi,Pura Ulun Danu Beratan Bali,-8.2755069,115.16626,"Pura Ulun Danu Beratan, Jalan Perean Tengah, Luwus, Bedugul, Tabanan, Bali, Nusa Tenggara, 81162, Indonesia",Bali,Tabanan
+wisata kerajaan,Puri Agung Karangasem,-8.4433442,115.6163545,"Puri Agung Karangasem, Jalan Gajah Mada, Kecamatan Karangasem, Amlapura, Kecamatan Karangasem, Karangasem, Bali, Nusa Tenggara, 80811, Indonesia",Bali,Karangasem
+wisata kerajaan,Puri Agung Gianyar,-8.5067232,115.262707,"Puri Saren Agung, Jalan Raya Ubud, Ubud, Kecamatan Ubud, Gianyar, Bali, Nusa Tenggara, 80571, Indonesia",Bali,Gianyar
+wisata kerajaan,Puri Saren Ubud,-8.5067232,115.262707,"Puri Saren Agung, Jalan Raya Ubud, Ubud, Kecamatan Ubud, Gianyar, Bali, Nusa Tenggara, 80571, Indonesia",Bali,Gianyar
+wisata edukasi,Pusat Konservasi Elang Kamojang,-7.1681482,107.7999159,"Pusat Konservasi Elang Kamojang, Maya Coola, Small Village, Sukakarya, Samarang, Garut, Jawa Barat, Jawa, Indonesia",Jawa Barat,Sukakarya
+wisata edukasi,Pusat Penelitian Kopi dan Kakao Jember,-8.1620212,113.7091569,"Pusat Penelitian Kopi dan Kakao Indonesia, Sumber Lor, Jember, Jawa Timur, Jawa, Indonesia",Jawa Timur,Jember
+wahana keluarga,Umbul Ponggok,-7.6127787,110.6359128,"R. Mas bagio di umbul ponggok, Jalan Pusur, Wangen, Klaten, Jawa Tengah, Jawa, 57482, Indonesia",Jawa Tengah,Klaten
+rumah adat,Rumah Adat Dayak Kalimantan,0.3852633,109.9339283,"Radakng Aya Landak (Rumah Adat Dayak), Vila Del Fia, Ngabang, Landak, Kalimantan Barat, Kalimantan, 79357, Indonesia",Kalimantan Barat,Landak
+wisata tematik,Rainbow Garden Lembang,-6.8190082,107.6176073,"Rainbow Garden, Lembang, Bandung Barat, Jawa Barat, Jawa, 40391, Indonesia",Jawa Barat,Bandung Barat
+wisata alam,Raja Ampat,-0.7125553,130.3034473,"Raja Ampat, Papua Barat Daya, Western New Guinea, Indonesia",Papua Barat Daya,Raja Ampat
+mall,Hartono Mall Yogyakarta,-7.7608045,110.4034239,"Reddoorz Near Hartono Mall 3 Condongcatur, Jalan Kyai Haji Wahid Hasyim, Condongcatur, Depok, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55283, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+taman,Taman Nasional Bukit Tigapuluh,-1.3718082,102.4791044,"Resort Taman Nasional Bukit Tigapuluh, Jalan Rigunas, Tebo, Jambi, Sumatera, Indonesia",Jambi,Tebo
+gunung,Gunung Rinjani,-8.4117272,116.4581059,"Rinjani, Lombok Timur, Nusa Tenggara Barat, Nusa Tenggara, Indonesia",Nusa Tenggara Barat,
+mall,Royal Plaza Surabaya,-7.3091349,112.7342835,"Royal Plaza, 16-18, Jalan Jenderal Achmad Yani, RW 04, Wonokromo, Surabaya, Jawa Timur, Jawa, 60231, Indonesia",Jawa Timur,Surabaya
+wisata kuliner,Rujak Cingur Genteng Surabaya,-7.2554948,112.740236,"Rujak Cingur Ahmad Jais, No.40, Jalan Achmad Jais, RW 02, Peneleh, Genteng, Surabaya, Jawa Timur, Jawa, 60274, Indonesia",Jawa Timur,Surabaya
+rumah adat,Rumah Adat Banjar Kalimantan Selatan,-2.634037,115.0957531,"Rumah Adat Banjar Bubungan Tinggi Habirau, Jalan Raya Negara, Habirau, Hulu Sungai Selatan, Kalimantan Selatan, Kalimantan, Indonesia",Kalimantan Selatan,Hulu Sungai Selatan
+rumah adat,Rumah Adat Buton Baubau,-4.6872524,123.0221566,"Rumah Adat Lambale, Jalan Poros Ereke-Baubau, Kulisusu Barat, Kotawo, Kulisusu Barat, Buton Utara, Sulawesi Tenggara, Sulawesi, Indonesia",Sulawesi Tenggara,Buton Utara
+rumah adat,Rumah Adat Lamin Kalimantan Timur,0.1978164,117.4729648,"Rumah Adat Lamin Kutai Guntung, Jalan Tari Gong, Guntung, Bontang, Kalimantan Timur, Kalimantan, 75321, Indonesia",Kalimantan Timur,Bontang
+rumah adat,Rumah Adat Enrekang Sulawesi Selatan,-3.6103967,119.8797063,"Rumah Adat Matakali, Jalan Poros Maiwa - Bungin, Matakali, Maiwa, Enrekang, Sulawesi Selatan, Sulawesi, Indonesia",Sulawesi Selatan,Sulawesi
+rumah adat,Rumah Adat Toraja Utara,-2.9860708,119.9527722,"rumah adat, Jalan Andi Achmand, Tondon, Toraja Utara, Sulawesi Selatan, Sulawesi, 91813, Indonesia",Sulawesi Selatan,Toraja Utara
+rumah adat,Rumah Adat Gadang Sumatera Barat,-1.4595663,101.0315028,"rumah adat, Pasir Talang, Solok Selatan, Sumatera Barat, Sumatera, Indonesia",Sumatera Barat,Solok Selatan
+wisata edukasi,Rumah Atsiri Indonesia,-7.6546345,111.1014613,"Rumah Atsiri Indonesia, Jalan Tawangmangu - Palaosan, Plumbon, Karanganyar, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Karanganyar
+wahana keluarga,Saloka Theme Park,-7.2801381,110.457617,"Saloka Theme Park, Gumuksari, Lopait, Kabupaten Semarang, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Kabupaten Semarang
+wisata kuliner,Sate Klatak Pak Pong,-7.8680486,110.3905995,"Sate Klatak pak Pong, Jalan Imogiri Timur, Wonokromo, Pleret, Bantul, Daerah Istimewa Yogyakarta, Jawa, 55791, Indonesia",Daerah Istimewa Yogyakarta,Bantul
+wisata kuliner,Sate Maranggi Cibungur,-6.4717694,107.4804409,"Sate Maranggi Cibungur, Jalan Raya Ciwangi, Cibungur, Purwakarta, Jawa Barat, Jawa, 41181, Indonesia",Jawa Barat,Purwakarta
+wisata kuliner,Sate Padang Ajo Ramon Jakarta,-6.241668,106.8104485,"Sate Padang Ajo Ramon, Jalan Cikajang, RW 05, Petogogan, Kebayoran Baru, Jakarta Selatan, Daerah Khusus ibukota Jakarta, Jawa, 12170, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata edukasi,Sea World Ancol,-6.1271335,106.8415805,"Sea World, Jalan Lodan Raya, Kawasan Wisata Ancol, Ancol, Pademangan, Jakarta Utara, Daerah Khusus ibukota Jakarta, Jawa, 14430, Indonesia",,Daerah Khusus ibukota Jakarta
+mall,Senayan City,-6.2273179,106.7971805,"Senayan City, Jalan Asia Afrika, RW 02, Gelora, Tanah Abang, Jakarta Pusat, Daerah Khusus ibukota Jakarta, Jawa, 10270, Indonesia",,Daerah Khusus ibukota Jakarta
+wahana keluarga,Sindu Kusuma Edupark,-7.7658888,110.3557753,"Sindu Kusuma Edupark, Jalan Jambon V, Kricak, Tegalrejo, Sinduadi, Mlati, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55242, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+wisata tematik,Sindu Kusuma Edupark Jogja,-7.7658888,110.3557753,"Sindu Kusuma Edupark, Jalan Jambon V, Kricak, Tegalrejo, Sinduadi, Mlati, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55242, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+mall,Solo Paragon Mall,-7.5624618,110.8099966,"Solo Paragon Mall, Jalan Yosodipuro, Purwosari, Surakarta, Jawa Tengah, Jawa, 57139, Indonesia",Jawa Tengah,Surakarta
+wisata kuliner,Soto Lamongan Cak Har Surabaya,-7.295653,112.7812929,"Soto Ayam Lamongan Cak Har, No.220, Jalan Klampis Harapan X, RW 08, Klampis Ngasem, Sukolilo, Surabaya, Jawa Timur, Jawa, 60119, Indonesia",Jawa Timur,Surabaya
+mall,Summarecon Mall Bekasi,-6.2259971,107.0010731,"Summarecon Mall Bekasi, Jalan Bulevar Ahmad Yani, Summarecon Bekasi, Summarecon, Margajaya, Bekasi, Jawa Barat, Jawa, 17142, Indonesia",Jawa Barat,Bekasi
+mall,Summarecon Mall Serpong,-6.2406997,106.6284149,"Summarecon Mall Serpong, Jalan Boulevard Gading Serpong, Gading Serpong, Rumpak Sinang, Pakulonan Barat, Kelapa Dua, Kabupaten Tangerang, Jawa, 15811, Indonesia",,Kabupaten Tangerang
+mall,Sun Plaza Medan,3.5822609,98.6719101,"Sun Plaza, 7, Jalan Jenggala, Medan Polonia, Kota Medan ᯔᯩᯑᯉ᯲, Sumatera Utara, Sumatera, 20152, Indonesia",Sumatera Utara,Kota Medan ᯔᯩᯑᯉ᯲
+wahana keluarga,Taman Impian Jaya Ancol,-6.1215807,106.8371407,"Taman Impian Jaya Ancol, No.7, Jalan Pademangan VIII, RW 10, Pademangan Timur, Pademangan, Jakarta Utara, Daerah Khusus ibukota Jakarta, Jawa, 14430, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata tematik,Taman Lalu Lintas Bandung,-6.9124701,107.6138388,"Taman Lalu Lintas, Jalan Belitung, Merdeka, Sumur Bandung, Kota Bandung, Jawa Barat, Jawa, 40117, Indonesia",Jawa Barat,Kota Bandung
+kebun binatang,Kebun Binatang Kasang Kulim Pekanbaru,0.4189627,101.4062602,"Taman Marga Satwa Kasang Kulim, Jalan Kebun Binatang, Pekanbaru, Kampar, Riau, Sumatera, 25258, Indonesia",Riau,Pekanbaru
+wahana keluarga,Taman Mini Indonesia Indah,-6.3026341,106.8952962,"Taman Mini Indonesia Indah, Gang An Nur 2C, RW 10, Lubang Buaya, Cipayung, Jakarta Timur, Daerah Khusus ibukota Jakarta, Jawa, 13810, Indonesia",,Jakarta Timur
+wisata tematik,Taman Mini Indonesia Indah Jakarta,-6.3026341,106.8952962,"Taman Mini Indonesia Indah, Gang An Nur 2C, RW 10, Lubang Buaya, Cipayung, Jakarta Timur, Daerah Khusus ibukota Jakarta, Jawa, 13810, Indonesia",,Jakarta Timur
+taman,Taman Nasional Aketajawe-Lolobata,0.5894491,127.7387051,"Taman Nasional Aketajawe Lolobata, Halmahera Tengah, Maluku Utara, Maluku, Indonesia",Maluku Utara,Halmahera Tengah
+taman,Taman Nasional Alas Purwo,-8.6135534,114.3981629,"Taman Nasional Alas Purwo, Banyuwangi, Jawa Timur, Jawa, Indonesia",Jawa Timur,Banyuwangi
+taman,Taman Nasional Baluran,-7.8363697,114.3808459,"Taman Nasional Baluran, Situbondo, Banyuwangi, Jawa Timur, Jawa, Indonesia",Jawa Timur,Situbondo
+taman,Taman Nasional Bantimurung Bulusaraung,-4.8683732,119.6930821,"Taman Nasional Bantimurung Bulusaraung, Pangkajene dan Kepulauan, Sulawesi Selatan, Sulawesi, Indonesia",Sulawesi Selatan,Pangkajene dan Kepulauan
+taman,Taman Nasional Batang Gadis,0.8899134,99.3400377,"Taman Nasional Batang Gadis, Mandailing Natal, Sumatera Utara, Sumatera, Indonesia",Sumatera Utara,Mandailing Natal
+taman,Taman Nasional Berbak,-1.4093264,104.2228031,"Taman Nasional Berbak, Tanjung Jabung Timur, Jambi, Sumatera, Indonesia",Jambi,Tanjung Jabung Timur
+taman,Taman Nasional Bogani Nani Wartabone,0.5810207,123.549791,"Taman Nasional Bogani Nani Wartabone, Bolaang Mongondow Utara, Sulawesi Utara, Sulawesi, Indonesia",Sulawesi Utara,Bolaang Mongondow Utara
+taman,Taman Nasional Bromo Tengger Semeru,-8.0254422,112.949168,"Taman Nasional Bromo Tengger Semeru, Kabupaten Malang, Jawa Timur, Jawa, 67254, Indonesia",Jawa Timur,Kabupaten Malang
+taman,Taman Nasional Bukit Baka Bukit Raya,-0.7158521,112.5860848,"Taman Nasional Bukit Baka Bukit Raya, Katingan, Kalimantan Tengah, Kalimantan, Indonesia",Kalimantan Tengah,Katingan
+taman,Taman Nasional Danau Sentarum,0.8367767,112.1830307,"Taman Nasional Danau Sentarum, Kapuas Hulu, Kalimantan Barat, Kalimantan, 78775, Indonesia",Kalimantan Barat,Kapuas Hulu
+gunung,Gunung Ciremai,-6.8800193,108.4104831,"Taman Nasional Gunung Ciremai, Maniskidul, Kuningan, Jawa Barat, Jawa, Indonesia",Jawa Barat,Kuningan
+taman,Taman Nasional Gunung Ciremai,-6.8800193,108.4104831,"Taman Nasional Gunung Ciremai, Maniskidul, Kuningan, Jawa Barat, Jawa, Indonesia",Jawa Barat,Kuningan
+taman,Taman Nasional Gunung Gede Pangrango,-6.7752118,106.9311234,"Taman Nasional Gunung Gede Pangrango, Kadudampit, Megamendung, Kab Sukabumi, Jawa Barat, Jawa, Indonesia",Jawa Barat,Kab Sukabumi
+taman,Taman Nasional Gunung Halimun Salak,-6.7417746,106.4540374,"Taman Nasional Gunung Halimun-Salak, Lebak, Banten, Jawa, 16696, Indonesia",Banten,Lebak
+taman,Taman Nasional Gunung Leuser,3.4925578,97.5593699,"Taman Nasional Gunung Leuser, Aceh, Sumatera, Indonesia",Aceh,Sumatera
+taman,Taman Nasional Gunung Palung,-1.2137375,110.2375269,"Taman Nasional Gunung Palung, Kayong Utara, Kalimantan Barat, Kalimantan, Indonesia",Kalimantan Barat,Kayong Utara
+taman,Taman Nasional Tambora,-8.2763787,117.996753,"Taman Nasional Gunung Tambora, Bima, Nusa Tenggara Barat, Nusa Tenggara, Indonesia",Nusa Tenggara Barat,
+taman,Taman Nasional Karimunjawa,-5.7970834,110.31,"Taman Nasional Karimunjawa, Jawa Tengah, Jawa, Indonesia",Jawa Tengah,Jawa
+taman,Taman Nasional Kerinci Seblat,-2.2619949,101.3594523,"Taman Nasional Kerinci Seblat, Jambi, Sumatera, Indonesia",Jambi,Sumatera
+taman,Taman Nasional Komodo,-8.6069899,119.5729395,"Taman Nasional Komodo, Manggarai Barat, Nusa Tenggara Timur, Nusa Tenggara, Indonesia",Nusa Tenggara Timur,Manggarai Barat
+taman,Taman Nasional Kutai,0.356592,117.2655867,"Taman Nasional Kutai, Kutai Timur, Kalimantan Timur, Kalimantan, Indonesia",Kalimantan Timur,Kutai Timur
+taman,Taman Nasional Lorentz,-4.641344,137.6663697,"Taman Nasional Lorentz, Papua Tengah, Western New Guinea, Indonesia",Papua Tengah,Western New Guinea
+taman,Taman Nasional Manusela,-3.0484302,129.2357306,"Taman Nasional Manusela, Maluku Tengah, Maluku, Indonesia",Maluku,Maluku Tengah
+taman,Taman Nasional Meru Betiri,-8.4606063,113.85749,"Taman Nasional Meru Betiri, Banyuwangi, Jawa Timur, Jawa, Indonesia",Jawa Timur,Banyuwangi
+taman,Taman Nasional Laut Sawu,-10.2885916,120.8349871,"Taman Nasional Perairan Laut Sawu, Nusa Tenggara Timur, Nusa Tenggara, Indonesia",Nusa Tenggara Timur,
+taman,Taman Nasional Rawa Aopa Watumohai,-4.3036722,122.0138645,"Taman Nasional Rawa Aopa Watumohai, Konawe Selatan, Sulawesi Tenggara, Sulawesi, Indonesia",Sulawesi Tenggara,Konawe Selatan
+taman,Taman Nasional Sebangau,-2.4769018,113.6931414,"Taman Nasional Sebangau, Kalimantan Tengah, Kalimantan, Indonesia",Kalimantan Tengah,Kalimantan
+taman,Taman Nasional Siberut,-1.4233193,98.8663082,"Taman Nasional Siberut, Kepulauan Mentawai, Sumatera Barat, Sumatera, Indonesia",Sumatera Barat,Sumatera
+taman,Taman Nasional Taka Bonerate,-6.7,121.1541667,"Taman Nasional Taka Bonerate, Sulawesi Selatan, Sulawesi, Indonesia",Sulawesi Selatan,Sulawesi
+taman,Taman Nasional Tanjung Puting,-3.0641552,112.0185747,"Taman Nasional Tanjung Puting, Kotawaringin Barat, Kalimantan Tengah, Kalimantan, Indonesia",Kalimantan Tengah,Kotawaringin Barat
+taman,Taman Nasional Teluk Cenderawasih,-2.54526,135.0106277,"Taman Nasional Teluk Cenderawasih, Papua Tengah, Western New Guinea, Indonesia",Papua Tengah,Western New Guinea
+taman,Taman Nasional Tesso Nilo,-0.2205437,101.8731769,"Taman Nasional Tesso Nilo, Pelalawan, Riau, Sumatera, Indonesia",Riau,Pelalawan
+taman,Taman Nasional Ujung Kulon,-6.751449,105.3177956,"Taman Nasional Ujung Kulon, Pandeglang, Banten, Jawa, Indonesia",Banten,Pandeglang
+taman,Taman Nasional Wakatobi,-5.9011111,124.1165972,"Taman Nasional Wakatobi, Sulawesi Tenggara, Sulawesi, Indonesia",Sulawesi Tenggara,Sulawesi
+taman,Taman Nasional Wasur,-8.5922228,140.7692643,"Taman Nasional Wasur, Papua Selatan, Western New Guinea, Indonesia",Papua Selatan,Western New Guinea
+taman,Taman Nasional Way Kambas,-4.9373689,105.7283403,"Taman Nasional Way Kambas, Lampung Timur, Lampung, Sumatera, Indonesia",Lampung,Lampung Timur
+wisata lampion,Taman Pelangi Yogyakarta,-7.7502983,110.3694758,"Taman Pelangi Jogja - Taman Lampion, Jalan Ring Road Utara, Sinduadi, Mlati, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55284, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+wisata edukasi,Taman Pintar Yogyakarta,-7.8010466,110.3677697,"Taman Pintar Yogyakarta, Kampung Ketandan, Prawirodirjan, Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Jawa, Indonesia",Daerah Istimewa Yogyakarta,Kota Yogyakarta
+wahana keluarga,Taman Remaja Surabaya,-7.252909,112.7519455,"Taman Remaja Surabaya, RW 04, Tambaksari, Surabaya, Jawa Timur, Jawa, Indonesia",Jawa Timur,Surabaya
+wisata tematik,Taman Safari Prigen,-7.752837,112.667453,"Taman Safari Indonesia Prigen, Taman Safari, Jatiarjo, Pasuruan, Jawa Timur, Jawa, Indonesia",Jawa Timur,Pasuruan
+kebun binatang,Taman Safari Indonesia Bogor,-6.7201709,106.9519528,"Taman Safari Indonesia, Jalan Alternatif Gunung Mas, Cisarua, Kab Bogor, Jawa Barat, Jawa, 16750, Indonesia",Jawa Barat,Kab Bogor
+kebun binatang,Taman Satwa Banjarmasin,-3.3080067,114.6033845,"Taman Satwa Banjarmasin Bungas, Jalan Jahri Saleh, Sungai Jingah, Banjarmasin Utara, Banjarmasin, Kalimantan Selatan, Kalimantan, 70121, Indonesia",Kalimantan Selatan,Banjarmasin
+kebun binatang,Kebun Binatang Cikembulan Garut,-7.0841178,107.9155195,"Taman Satwa Cikembulan
+
+Kebun Binatang Cikembulan, Gang Melati, Cisaat, Neglasari, Kadungora, Garut, Jawa Barat, Jawa, 44152, Indonesia",Jawa Barat,Neglasari
+wisata religi,Pura Tanah Lot Bali,-8.6212249,115.0868804,"Tanah Lot, Jalan Enjung Pura, Beraban, Tabanan, Bali, Nusa Tenggara, 82121, Indonesia",Bali,Tabanan
+wisata tematik,Tebing Breksi Yogyakarta,-7.7814296,110.5049834,"Tebing Breksi, Alternatif Prambanan-Lemahbang, Sambirejo, Prambanan, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55572, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+air terjun,Air Terjun Tegenungan,-8.5752294,115.2907014,"Tegenungan Blangsinga, Sukawati, Gianyar, Bali, Nusa Tenggara, 80582, Indonesia",Bali,Gianyar
+wahana keluarga,The Jungle Bogor,-6.6344256,106.7954514,"The Jungle Adventure Water Park, Bogor Selatan, Bogor, Jawa Barat, Jawa, Indonesia",Jawa Barat,Bogor
+wahana keluarga,The Park Mall Solo,-7.5988732,110.8163039,"The Park Mall, Jalan Insinyur Soekarno, Grogol, Sukoharjo, Jawa Tengah, Jawa, 57552, Indonesia",Jawa Tengah,Sukoharjo
+mall,Balikpapan Plaza,-1.2781938,116.8398348,"The Plaza Balikpapan, Jalan Jenderal Sudirman, Klandasan Ilir, Balikpapan Kota, Balikpapan, Kalimantan Timur, Kalimantan, 76121, Indonesia",Kalimantan Timur,Balikpapan
+mall,Pakuwon Mall Jogja,-7.7582576,110.3994486,"TPB RRU Pakuwon Mall Jogja, Ring Road Utara, Condongcatur, Depok, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55283, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+wisata edukasi,Trans Studio Bandung,-6.9247021,107.6360969,"Trans Studio Bandung, Jalan Cibangkong Lor, Maleer, Batununggal, Kota Bandung, Jawa Barat, Jawa, 40274, Indonesia",Jawa Barat,Kota Bandung
+wahana keluarga,Trans Studio Cibubur,-6.3746768,106.9023871,"Trans Studio Mall Cibubur, Jalan Jambore, RW 05, Pondok Ranggon, Cipayung, Jakarta Timur, Depok ᮓᮦᮕᮧᮊ᮪, Jawa Barat, Jawa, 16454, Indonesia",Jawa Barat,Jakarta Timur
+mall,Trans Studio Mall Bandung,-6.9256414,107.6367469,"Trans Studio Mall, #289, Maleer Indah I, Maleer, Batununggal, Kota Bandung, Jawa Barat, Jawa, 40273, Indonesia",Jawa Barat,Kota Bandung
+wahana keluarga,Trans Studio Makassar,-5.1588529,119.3940742,"Trans Studio Mall, Maccini Sombala, Tamalate, Makassar, Sulawesi Selatan, Sulawesi, 90134, Indonesia",Sulawesi Selatan,Makassar
+mall,Tunjungan Plaza Surabaya,-7.2623869,112.739006,"Tunjungan Plaza, Jalan Mergoyoso, RW 10, Kedungdoro, Tegalsari, Surabaya, Jawa Timur, Jawa, 60011, Indonesia",Jawa Timur,Surabaya
+wisata tematik,Upside Down World Bali,-8.7166321,115.2052139,"Upside Down World, Jalan Bypass Ngurah Rai, Pemogan, Denpasar Selatan, Denpasar ᬤᬾᬦ᭄ᬧᬲᬃ, Bali, Nusa Tenggara, 80221, Indonesia",Bali,Denpasar ᬤᬾᬦ᭄ᬧᬲᬃ
+wisata religi,Vihara Avalokitesvara Banten,-6.030155,106.1492953,"Vihara Avalokitesvara, Jalan Masjid Agung Banten, Banten, Kasemen, Serang ᮞᮦᮛᮀ, Jawa, Indonesia",,Serang ᮞᮦᮛᮀ
+wisata religi,Vihara Buddhagaya Watugong Semarang,-7.0864388,110.4095947,"Vihara Buddhagaya Watugong Semarang, Jalan Perintis Kemerdekaan, RW 09, Pudakpayung, Banyumanik, Kota Semarang, Jawa Tengah, Jawa, 50265, Indonesia",Jawa Tengah,Kota Semarang
+wisata religi,Vihara Dhanagun Bogor,-6.6031623,106.7992338,"Vihara Dhanagun, Jalan Surya Kencana, Bogor Tengah, Bogor, Jawa Barat, Jawa, 16122, Indonesia",Jawa Barat,Bogor
+wisata religi,Vihara Dharma Bhakti Jakarta,-6.144868,106.7805565,"Vihara Dharma Bhakti, Jalan Kusuma, RW 09, Wijaya Kusuma, Grogol Petamburan, Jakarta Barat, Daerah Khusus ibukota Jakarta, Jawa, 11330, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata religi,Vihara Ekayana Arama Jakarta,-6.1777166,106.7784333,"Vihara Ekayana Arama, Jalan Mangga II, RW 08, Duri Kepa, Kebon Jeruk, Jakarta Barat, Daerah Khusus ibukota Jakarta, Jawa, 11430, Indonesia",,Daerah Khusus ibukota Jakarta
+wisata kuliner,Soto Kadipiro Yogyakarta,-7.8006662,110.3462144,"Warung Soto Kadipiro, 33, Jalan Wates, Ngestiharjo, Kasihan, Bantul, Daerah Istimewa Yogyakarta, Jawa, 55182, Indonesia",Daerah Istimewa Yogyakarta,Bantul
+wahana keluarga,Waterbom Bali,-8.7282927,115.170627,"Waterbom Bali, Gang Kingkong, Kuta, Badung, Bali, Nusa Tenggara, 80361, Indonesia",Bali,Badung
+wahana keluarga,Waterboom Jakarta,-6.1132402,106.7490248,"Waterboom Jakarta 2, Jalan Marina Indah, RW 05, Kamal Muara, Penjaringan, Jakarta Utara, Daerah Khusus ibukota Jakarta, Jawa, 14470, Indonesia",,Daerah Khusus ibukota Jakarta
+wahana keluarga,Jogja Bay Waterpark,-7.7472493,110.4189062,"Waterboom Jogja, Jalan Utara Stadion, Wedomartani, Sleman, Daerah Istimewa Yogyakarta, Jawa, 55821, Indonesia",Daerah Istimewa Yogyakarta,Sleman
+wahana keluarga,Waterboom Lippo Cikarang,-6.3316066,107.138407,"Waterboom Lippo Cikarang, Jalan Menteng Padma, Lippo Cikarang, Sukaresmi, Kab Bekasi, Jawa Barat, Jawa, 17550, Indonesia",Jawa Barat,Jawa
+wisata edukasi,Museum Wayang Jakarta,-6.1348145,106.8125091,"Wayang Museum, Taman Fatahillah, RW 06, Pinangsia, Taman Sari, Jakarta Barat, Daerah Khusus ibukota Jakarta, Jawa, 11110, Indonesia",,Daerah Khusus ibukota Jakarta
+bukit,Bukit Sekipan Tawangmangu,-7.667803,111.1442694,"Wisata Bukit Sekipan, Jalan Tawangmangu - Palaosan, Nglebak, Karanganyar, Jawa Tengah, Jawa, 57785, Indonesia",Jawa Tengah,Karanganyar
+wisata tematik,Watu Goyang Bantul,-7.92706,110.4120656,"Wista watu goyang, Jalan Imogiri - Dlingo, Wukirsari, Imogiri, Bantul, Daerah Istimewa Yogyakarta, Jawa, 55782, Indonesia",Daerah Istimewa Yogyakarta,Bantul
+wahana keluarga,Wonderland Karawang,-6.326002,107.2901281,"Wonderland Adventure Waterpark Galuh Mas Karawang, Jalan Raya Galuhmas, Metropolis, Sukaharja, Karawang ᮊᮛᮝᮀ, Jawa Barat, Jawa, 41361, Indonesia",Jawa Barat,Karawang ᮊᮛᮝᮀ
+mall,Pluit Village,-6.1162602,106.789693,"WonderMind Pluit Village, Jalan Pluit Indah Raya, RW 04, Pluit, Penjaringan, Jakarta Utara, Daerah Khusus ibukota Jakarta, Jawa, 14450, Indonesia",,Daerah Khusus ibukota Jakarta
